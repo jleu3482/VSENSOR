@@ -21,4 +21,4 @@ var al=true;var an=-99;if(am&&ao){var ak=am.firstChild;while(ak){if(ak.nodeName.
  MenuName: "mb3s18",
  DefaultDirectionX: 1
 });
-// Created with Easy CSS Menu
+// Created with Easy Button & Menu Maker
