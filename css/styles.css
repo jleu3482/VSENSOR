@@ -797,13 +797,14 @@ body {
   width: 38.25%;
   height: 172px;
   margin: -531px 0 0 51.75%;
+  border: 3px solid rgb(0, 0, 0);
   background-image: url('../images/track2.png'), -webkit-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
   background-image: url('../images/track2.png'),    -moz-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
   background-image: url('../images/track2.png'),      -o-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
   background-image: url('../images/track2.png'),     -ms-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
   background-image: url('../images/track2.png'),         linear-gradient(128deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
   background-repeat: no-repeat, repeat;
-  background-size: contain, 100% 100%;
+  background-size: cover, 100% 100%;
   background-position: center center, 0% 0%;
   background-attachment: scroll, scroll;
 }
@@ -3126,7 +3127,7 @@ body {
     width: 49.1091314031%;
     height: 166px;
     margin-top: -509px;
-    margin-left: 40.89087%;
+    margin-left: 40.88948%;
   }
 
   .container .element-45 {
@@ -3148,7 +3149,7 @@ body {
   .container .text-32 {
     position: relative;
     z-index: 1;
-    margin-left: 35.59298%;
+    margin-left: 35.59124%;
   }
 
   .container .text-40 {
