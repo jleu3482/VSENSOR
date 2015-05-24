@@ -14,10 +14,14 @@ body {
   color: rgb(0, 0, 0);
 }
 
-.page-overhead_line,
-.page-track {
+.page-overhead_line {
   font-family: Oswald;
   color: rgb(0, 0, 0);
+}
+
+.page-track {
+  font-family: Oswald;
+  color: rgb(255, 255, 255);
 }
 
 .container .wrapper {
@@ -770,7 +774,8 @@ body {
   margin: -346px 0 0 6.33073%;
   border-radius: 8px;
   background-image: url('../images/switch%20cut%20out.png');
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
   background-position: center center;
 }
 
@@ -832,6 +837,7 @@ body {
   width: 37.4166666666%;
   height: 202px;
   margin: -253px 0 0 52.58203%;
+  border: 3px solid rgb(0, 0, 0);
   background-image: url('../images/multisensortrack1.jpg');
   background-size: cover;
   background-position: center center;
@@ -2243,7 +2249,7 @@ body {
   .container .text-6 {
     position: relative;
     z-index: 18;
-    margin-left: 17.60362%;
+    margin-left: 17.60226%;
   }
 
   .container .text-7 {
@@ -3149,7 +3155,7 @@ body {
   .container .text-32 {
     position: relative;
     z-index: 1;
-    margin-left: 35.59124%;
+    margin-left: 35.5895%;
   }
 
   .container .text-40 {
@@ -3219,7 +3225,9 @@ body {
   .container .element-41 {
     position: relative;
     z-index: 8;
-    margin-top: -342px;
+    width: 23.6192714453%;
+    height: 152px;
+    margin-top: -336px;
     margin-left: 0;
   }
 
@@ -3508,6 +3516,12 @@ body {
     margin-left: 16.74714%;
   }
 
+  .container .element-41 {
+    position: relative;
+    z-index: 8;
+    margin-top: -342px;
+  }
+
   .container .element-5 {
     position: relative;
     z-index: 13;
@@ -3733,7 +3747,6 @@ body {
     font-size: 0.75em;
   }
 
-  .container .element-41,
   .container-1 {
     position: relative;
     z-index: 8;
