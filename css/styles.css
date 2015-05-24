@@ -65,12 +65,12 @@ body {
 .text-14 p,
 .text-15 p,
 .text-16 p,
-.text-25 p,
 .text-27 p,
+.text-28 p,
 .text-29 p,
-.text-36 p,
+.text-38 p,
 .text-49 p,
-.text-51 p,
+.text-52 p,
 .text-54 p {
   margin-bottom: 1em;
 }
@@ -129,7 +129,7 @@ body {
   height: 550px;
 }
 
-.container-11 {
+.container-10 {
   position: relative;
   float: left;
   clear: both;
@@ -160,7 +160,7 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 24;
+  z-index: 23;
   width: 100%;
   height: 2922px;
 }
@@ -187,18 +187,18 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 14;
+  z-index: 12;
   width: 100%;
-  height: 705px;
+  height: 550px;
 }
 
 .container-18 {
   position: relative;
   float: left;
   clear: both;
-  z-index: 12;
+  z-index: 13;
   width: 100%;
-  height: 550px;
+  height: 705px;
 }
 
 .container-19 {
@@ -228,7 +228,7 @@ body {
   height: 1306px;
 }
 
-.container-10,
+.container-11,
 .container-21 {
   position: relative;
   float: left;
@@ -242,7 +242,7 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 20;
+  z-index: 19;
   width: 100%;
   height: 550px;
   margin-top: 223px;
@@ -323,6 +323,69 @@ body {
 
 .element-10 {
   position: relative;
+  z-index: 28;
+  width: 100%;
+  height: 2500px;
+  background-image: -webkit-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+  background-image:    -moz-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+  background-image:      -o-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+  background-image:     -ms-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+  background-image:         linear-gradient(130deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+}
+
+.element-11 {
+  position: relative;
+  z-index: 29;
+  width: 100%;
+  height: 721px;
+  margin-top: -2333px;
+  background-image: url('../images/2software%20arrows.png'), -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(237, 198, 119) 99.52380952380952%);
+  background-image: url('../images/2software%20arrows.png'),    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(237, 198, 119) 99.52380952380952%);
+  background-image: url('../images/2software%20arrows.png'),      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(237, 198, 119) 99.52380952380952%);
+  background-image: url('../images/2software%20arrows.png'),     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(237, 198, 119) 99.52380952380952%);
+  background-image: url('../images/2software%20arrows.png'),         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(237, 198, 119) 99.52380952380952%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-12 {
+  position: relative;
+  z-index: 36;
+  width: 42.4166666666%;
+  height: 573px;
+  margin: -644px 0 0 16%;
+  background-image: url('../images/r1.png'), -webkit-linear-gradient(320deg, rgb(255, 208, 112) 0%, rgb(243, 173, 5) 100%);
+  background-image: url('../images/r1.png'),    -moz-linear-gradient(320deg, rgb(255, 208, 112) 0%, rgb(243, 173, 5) 100%);
+  background-image: url('../images/r1.png'),      -o-linear-gradient(320deg, rgb(255, 208, 112) 0%, rgb(243, 173, 5) 100%);
+  background-image: url('../images/r1.png'),     -ms-linear-gradient(320deg, rgb(255, 208, 112) 0%, rgb(243, 173, 5) 100%);
+  background-image: url('../images/r1.png'),         linear-gradient(130deg, rgb(255, 208, 112) 0%, rgb(243, 173, 5) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-13 {
+  position: relative;
+  z-index: 37;
+  width: 39.5833333333%;
+  height: 469px;
+  margin: -644px 0 0 60.41667%;
+  background-image: url('../images/r3.png'), -webkit-linear-gradient(321deg, rgb(240, 203, 127) 0.4761904761904762%, rgb(240, 141, 0) 100%);
+  background-image: url('../images/r3.png'),    -moz-linear-gradient(321deg, rgb(240, 203, 127) 0.4761904761904762%, rgb(240, 141, 0) 100%);
+  background-image: url('../images/r3.png'),      -o-linear-gradient(321deg, rgb(240, 203, 127) 0.4761904761904762%, rgb(240, 141, 0) 100%);
+  background-image: url('../images/r3.png'),     -ms-linear-gradient(321deg, rgb(240, 203, 127) 0.4761904761904762%, rgb(240, 141, 0) 100%);
+  background-image: url('../images/r3.png'),         linear-gradient(129deg, rgb(240, 203, 127) 0.4761904761904762%, rgb(240, 141, 0) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-14 {
+  position: relative;
   z-index: 0;
   width: 50%;
   height: 550px;
@@ -332,19 +395,7 @@ body {
   background-position: center center;
 }
 
-.element-11 {
-  position: relative;
-  z-index: 1;
-  width: 50%;
-  height: 550px;
-  margin: -550px 0 0 50%;
-  border: 8px solid rgb(0, 0, 0);
-  background-image: url('../images/train2.jpg');
-  background-size: cover;
-  background-position: center center;
-}
-
-.element-12 {
+.element-15 {
   position: relative;
   z-index: 43;
   width: 100%;
@@ -356,7 +407,7 @@ body {
   background-image:         linear-gradient(129deg, rgb(237, 192, 99) 0%, rgb(230, 113, 79) 99.76190476190476%);
 }
 
-.element-13 {
+.element-16 {
   position: relative;
   z-index: 0;
   width: 50%;
@@ -368,7 +419,19 @@ body {
   background-position: center center;
 }
 
-.element-14 {
+.element-17 {
+  position: relative;
+  z-index: 1;
+  width: 50%;
+  height: 550px;
+  margin: -550px 0 0 50%;
+  border: 8px solid rgb(0, 0, 0);
+  background-image: url('../images/train2.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-18 {
   position: relative;
   z-index: 0;
   width: 100%;
@@ -378,7 +441,7 @@ body {
   background-position: center center;
 }
 
-.element-15 {
+.element-19 {
   position: relative;
   z-index: 1;
   width: 50%;
@@ -388,46 +451,6 @@ body {
   background-image: url('../images/ride2.jpg');
   background-size: cover;
   background-position: center bottom;
-}
-
-.element-16 {
-  position: relative;
-  z-index: 5;
-  width: 100%;
-  height: 550px;
-  background-image: -webkit-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(131deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-}
-
-.element-17 {
-  position: relative;
-  z-index: 47;
-  width: 100%;
-  height: 550px;
-  background-image: url('../images/cover%20page.png'), -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
-  background-image: url('../images/cover%20page.png'),    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
-  background-image: url('../images/cover%20page.png'),      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
-  background-image: url('../images/cover%20page.png'),     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
-  background-image: url('../images/cover%20page.png'),         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
-  background-repeat: no-repeat, repeat;
-  background-size: cover, 100% 100%;
-  background-position: center center, 0% 0%;
-  background-attachment: scroll, scroll;
-}
-
-.element-18 {
-  position: relative;
-  z-index: 3;
-  width: 100%;
-  height: 550px;
-  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
 }
 
 .element-2 {
@@ -444,6 +467,63 @@ body {
 
 .element-20 {
   position: relative;
+  z-index: 47;
+  width: 100%;
+  height: 550px;
+  background-image: url('../images/cover%20page.png'), -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
+  background-image: url('../images/cover%20page.png'),    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
+  background-image: url('../images/cover%20page.png'),      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
+  background-image: url('../images/cover%20page.png'),     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
+  background-image: url('../images/cover%20page.png'),         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(255, 218, 0) 97.61904761904762%, rgb(0, 0, 0) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: cover, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-21 {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 550px;
+  background-image: -webkit-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(131deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-22 {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  height: 550px;
+  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-24 {
+  position: relative;
+  z-index: 5;
+  width: 39.9166666666%;
+  height: 362px;
+  margin: -362px 0 0 28.83073%;
+  background-image: url('../images/oh2.JPG'), -webkit-linear-gradient(320deg, rgb(180, 180, 180) 0.7142857142857143%, rgb(53, 53, 53) 99.76190476190476%);
+  background-image: url('../images/oh2.JPG'),    -moz-linear-gradient(320deg, rgb(180, 180, 180) 0.7142857142857143%, rgb(53, 53, 53) 99.76190476190476%);
+  background-image: url('../images/oh2.JPG'),      -o-linear-gradient(320deg, rgb(180, 180, 180) 0.7142857142857143%, rgb(53, 53, 53) 99.76190476190476%);
+  background-image: url('../images/oh2.JPG'),     -ms-linear-gradient(320deg, rgb(180, 180, 180) 0.7142857142857143%, rgb(53, 53, 53) 99.76190476190476%);
+  background-image: url('../images/oh2.JPG'),         linear-gradient(130deg, rgb(180, 180, 180) 0.7142857142857143%, rgb(53, 53, 53) 99.76190476190476%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-25 {
+  position: relative;
   z-index: 10;
   width: 100%;
   height: 2922px;
@@ -454,7 +534,7 @@ body {
   background-image:         linear-gradient(131deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
 }
 
-.element-21 {
+.element-26 {
   position: relative;
   z-index: 0;
   width: 50%;
@@ -466,7 +546,7 @@ body {
   background-attachment: scroll, scroll;
 }
 
-.element-22 {
+.element-27 {
   position: relative;
   z-index: 0;
   width: 100%;
@@ -476,19 +556,7 @@ body {
   background-position: center center;
 }
 
-.element-23 {
-  position: relative;
-  z-index: 8;
-  width: 100%;
-  height: 930px;
-  background-image: -webkit-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(132deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-}
-
-.element-24 {
+.element-28 {
   position: relative;
   z-index: 9;
   width: 100%;
@@ -498,64 +566,16 @@ body {
   background-position: center top;
 }
 
-.element-25 {
-  position: relative;
-  z-index: 1;
-  width: 50%;
-  height: 550px;
-  margin: -550px 0 0 50%;
-  background-image: url('../images/app%20mirror.jpg');
-  background-size: cover;
-  background-position: center center;
-}
-
-.element-26 {
-  position: relative;
-  z-index: 3;
-  width: 100%;
-  height: 835px;
-  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-}
-
-.element-27 {
-  position: relative;
-  z-index: 13;
-  width: 100%;
-  height: 1306px;
-  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-}
-
-.element-19,
-.element-28 {
-  position: relative;
-  z-index: 5;
-  width: 100%;
-  height: 550px;
-  background-image: -webkit-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(129deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-}
-
 .element-29 {
   position: relative;
-  z-index: 15;
+  z-index: 8;
   width: 100%;
-  height: 550px;
-  background-image: -webkit-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:    -moz-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:      -o-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:     -ms-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
-  background-image:         linear-gradient(131deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  height: 930px;
+  background-image: -webkit-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(318deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(132deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
 }
 
 .element-3 {
@@ -571,35 +591,152 @@ body {
 
 .element-30 {
   position: relative;
-  z-index: 8;
-  width: 16.4666666666%;
-  height: 139px;
-  margin: -346px 0 0 6.33073%;
-  border-radius: 8px;
-  background-image: url('../images/switch%20cut%20out.png');
-  background-size: cover;
-  background-position: center center;
+  z-index: 13;
+  width: 65.3333333333%;
+  height: 401px;
+  margin: -2756px 0 0 17.86589%;
+  background-image: url('../images/station1.png'), -webkit-linear-gradient(320deg, rgb(238, 238, 238) 0.4761904761904762%, rgb(157, 157, 157) 100%);
+  background-image: url('../images/station1.png'),    -moz-linear-gradient(320deg, rgb(238, 238, 238) 0.4761904761904762%, rgb(157, 157, 157) 100%);
+  background-image: url('../images/station1.png'),      -o-linear-gradient(320deg, rgb(238, 238, 238) 0.4761904761904762%, rgb(157, 157, 157) 100%);
+  background-image: url('../images/station1.png'),     -ms-linear-gradient(320deg, rgb(238, 238, 238) 0.4761904761904762%, rgb(157, 157, 157) 100%);
+  background-image: url('../images/station1.png'),         linear-gradient(130deg, rgb(238, 238, 238) 0.4761904761904762%, rgb(157, 157, 157) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
 }
 
 .element-31 {
   position: relative;
-  z-index: 10;
-  width: 37.4166666666%;
-  height: 202px;
-  margin: -253px 0 0 52.58203%;
-  background-image: url('../images/multisensortrack1.jpg');
+  z-index: 1;
+  width: 50%;
+  height: 550px;
+  margin: -550px 0 0 50%;
+  background-image: url('../images/app%20mirror.jpg');
   background-size: cover;
   background-position: center center;
 }
 
 .element-32 {
+  position: relative;
+  z-index: 15;
+  width: 79.5833333333%;
+  height: 507px;
+  margin: -2239px 0 0 10%;
+  background-image: url('../images/station2.png'), -webkit-linear-gradient(320deg, rgb(219, 219, 219) 0.4761904761904762%, rgb(108, 108, 108) 100%);
+  background-image: url('../images/station2.png'),    -moz-linear-gradient(320deg, rgb(219, 219, 219) 0.4761904761904762%, rgb(108, 108, 108) 100%);
+  background-image: url('../images/station2.png'),      -o-linear-gradient(320deg, rgb(219, 219, 219) 0.4761904761904762%, rgb(108, 108, 108) 100%);
+  background-image: url('../images/station2.png'),     -ms-linear-gradient(320deg, rgb(219, 219, 219) 0.4761904761904762%, rgb(108, 108, 108) 100%);
+  background-image: url('../images/station2.png'),         linear-gradient(130deg, rgb(219, 219, 219) 0.4761904761904762%, rgb(108, 108, 108) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-33 {
+  position: relative;
+  z-index: 3;
   width: 100%;
-  height: 769px;
-  margin-top: -1px;
-  background-image: url('../images/analysis.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center top;
+  height: 835px;
+  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-34 {
+  position: relative;
+  z-index: 11;
+  width: 51.3333333333%;
+  height: 689px;
+  margin-top: -736px;
+  background-image: url('../images/r1.png'), -webkit-linear-gradient(322deg, rgb(239, 239, 239) 0%, rgb(76, 76, 76) 99.28571428571429%);
+  background-image: url('../images/r1.png'),    -moz-linear-gradient(322deg, rgb(239, 239, 239) 0%, rgb(76, 76, 76) 99.28571428571429%);
+  background-image: url('../images/r1.png'),      -o-linear-gradient(322deg, rgb(239, 239, 239) 0%, rgb(76, 76, 76) 99.28571428571429%);
+  background-image: url('../images/r1.png'),     -ms-linear-gradient(322deg, rgb(239, 239, 239) 0%, rgb(76, 76, 76) 99.28571428571429%);
+  background-image: url('../images/r1.png'),         linear-gradient(128deg, rgb(239, 239, 239) 0%, rgb(76, 76, 76) 99.28571428571429%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-35 {
+  position: relative;
+  z-index: 13;
+  width: 100%;
+  height: 1306px;
+  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-36 {
+  position: relative;
+  z-index: 10;
+  width: 46.3333333333%;
+  height: 552px;
+  margin: -736px 0 0 53.66667%;
+  background-image: url('../images/r3.png'), -webkit-linear-gradient(320deg, rgb(152, 152, 152) 0%, rgb(22, 22, 22) 100%);
+  background-image: url('../images/r3.png'),    -moz-linear-gradient(320deg, rgb(152, 152, 152) 0%, rgb(22, 22, 22) 100%);
+  background-image: url('../images/r3.png'),      -o-linear-gradient(320deg, rgb(152, 152, 152) 0%, rgb(22, 22, 22) 100%);
+  background-image: url('../images/r3.png'),     -ms-linear-gradient(320deg, rgb(152, 152, 152) 0%, rgb(22, 22, 22) 100%);
+  background-image: url('../images/r3.png'),         linear-gradient(130deg, rgb(152, 152, 152) 0%, rgb(22, 22, 22) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-37 {
+  position: relative;
+  z-index: 17;
+  width: 100%;
+  height: 337px;
+  margin-top: -1630px;
+  background-image: url('../images/station3.jpg'), -webkit-linear-gradient(322deg, rgb(177, 177, 177) 0.2380952380952381%, rgb(84, 84, 84) 100%);
+  background-image: url('../images/station3.jpg'),    -moz-linear-gradient(322deg, rgb(177, 177, 177) 0.2380952380952381%, rgb(84, 84, 84) 100%);
+  background-image: url('../images/station3.jpg'),      -o-linear-gradient(322deg, rgb(177, 177, 177) 0.2380952380952381%, rgb(84, 84, 84) 100%);
+  background-image: url('../images/station3.jpg'),     -ms-linear-gradient(322deg, rgb(177, 177, 177) 0.2380952380952381%, rgb(84, 84, 84) 100%);
+  background-image: url('../images/station3.jpg'),         linear-gradient(128deg, rgb(177, 177, 177) 0.2380952380952381%, rgb(84, 84, 84) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-23,
+.element-38 {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 550px;
+  background-image: -webkit-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(129deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-39 {
+  position: relative;
+  z-index: 15;
+  width: 59%;
+  height: 165px;
+  margin: -1136px 0 0 19.58073%;
+  background-image: url('../images/ride4.png'), -webkit-linear-gradient(320deg, rgb(221, 221, 221) 0.9523809523809524%, rgb(117, 117, 117) 99.28571428571429%);
+  background-image: url('../images/ride4.png'),    -moz-linear-gradient(320deg, rgb(221, 221, 221) 0.9523809523809524%, rgb(117, 117, 117) 99.28571428571429%);
+  background-image: url('../images/ride4.png'),      -o-linear-gradient(320deg, rgb(221, 221, 221) 0.9523809523809524%, rgb(117, 117, 117) 99.28571428571429%);
+  background-image: url('../images/ride4.png'),     -ms-linear-gradient(320deg, rgb(221, 221, 221) 0.9523809523809524%, rgb(117, 117, 117) 99.28571428571429%);
+  background-image: url('../images/ride4.png'),         linear-gradient(130deg, rgb(221, 221, 221) 0.9523809523809524%, rgb(117, 117, 117) 99.28571428571429%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
 }
 
 .element-4 {
@@ -611,6 +748,136 @@ body {
   background-image: url('../images/app%20bogie%20installation.jpg');
   background-size: cover;
   background-position: center center;
+}
+
+.element-40 {
+  position: relative;
+  z-index: 14;
+  width: 100%;
+  height: 550px;
+  background-image: -webkit-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(319deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(131deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-41 {
+  position: relative;
+  z-index: 8;
+  width: 16.4666666666%;
+  height: 139px;
+  margin: -346px 0 0 6.33073%;
+  border-radius: 8px;
+  background-image: url('../images/switch%20cut%20out.png');
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-42 {
+  position: relative;
+  z-index: 17;
+  width: 77.25%;
+  height: 495px;
+  margin: -869px 0 0 12.75%;
+  background-image: url('../images/ride6.png'), -webkit-linear-gradient(321deg, rgb(198, 198, 198) 0.2380952380952381%, rgb(44, 44, 44) 100%);
+  background-image: url('../images/ride6.png'),    -moz-linear-gradient(321deg, rgb(198, 198, 198) 0.2380952380952381%, rgb(44, 44, 44) 100%);
+  background-image: url('../images/ride6.png'),      -o-linear-gradient(321deg, rgb(198, 198, 198) 0.2380952380952381%, rgb(44, 44, 44) 100%);
+  background-image: url('../images/ride6.png'),     -ms-linear-gradient(321deg, rgb(198, 198, 198) 0.2380952380952381%, rgb(44, 44, 44) 100%);
+  background-image: url('../images/ride6.png'),         linear-gradient(129deg, rgb(198, 198, 198) 0.2380952380952381%, rgb(44, 44, 44) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-43 {
+  position: relative;
+  z-index: 10;
+  width: 38.25%;
+  height: 172px;
+  margin: -531px 0 0 51.75%;
+  background-image: url('../images/track2.png'), -webkit-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),    -moz-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),      -o-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),     -ms-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),         linear-gradient(128deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-44 {
+  position: relative;
+  z-index: 20;
+  width: 43.1666666666%;
+  height: 582px;
+  margin-top: -582px;
+  background-image: url('../images/r1.png'), -webkit-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 0.4761904761904762%, rgb(50, 50, 50) 99.28571428571429%);
+  background-image: url('../images/r1.png'),    -moz-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 0.4761904761904762%, rgb(50, 50, 50) 99.28571428571429%);
+  background-image: url('../images/r1.png'),      -o-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 0.4761904761904762%, rgb(50, 50, 50) 99.28571428571429%);
+  background-image: url('../images/r1.png'),     -ms-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 0.4761904761904762%, rgb(50, 50, 50) 99.28571428571429%);
+  background-image: url('../images/r1.png'),         linear-gradient(129deg, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 0.4761904761904762%, rgb(50, 50, 50) 99.28571428571429%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-45 {
+  position: relative;
+  z-index: 9;
+  width: 37.4166666666%;
+  height: 202px;
+  margin: -253px 0 0 52.58203%;
+  background-image: url('../images/multisensortrack1.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-46 {
+  position: relative;
+  z-index: 19;
+  width: 77.3333333333%;
+  height: 261px;
+  margin: -301px 0 0 11%;
+  background-image: url('../images/ride7.jpg'), -webkit-linear-gradient(322deg, rgb(155, 151, 151) 0%, rgb(18, 18, 18) 99.76190476190476%);
+  background-image: url('../images/ride7.jpg'),    -moz-linear-gradient(322deg, rgb(155, 151, 151) 0%, rgb(18, 18, 18) 99.76190476190476%);
+  background-image: url('../images/ride7.jpg'),      -o-linear-gradient(322deg, rgb(155, 151, 151) 0%, rgb(18, 18, 18) 99.76190476190476%);
+  background-image: url('../images/ride7.jpg'),     -ms-linear-gradient(322deg, rgb(155, 151, 151) 0%, rgb(18, 18, 18) 99.76190476190476%);
+  background-image: url('../images/ride7.jpg'),         linear-gradient(128deg, rgb(155, 151, 151) 0%, rgb(18, 18, 18) 99.76190476190476%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-47 {
+  position: relative;
+  z-index: 21;
+  width: 48.5%;
+  height: 582px;
+  margin: -582px 0 0 51.5%;
+  background-image: url('../images/r3.png'), -webkit-linear-gradient(322deg, rgb(73, 73, 73) 0%, rgb(11, 11, 11) 100%);
+  background-image: url('../images/r3.png'),    -moz-linear-gradient(322deg, rgb(73, 73, 73) 0%, rgb(11, 11, 11) 100%);
+  background-image: url('../images/r3.png'),      -o-linear-gradient(322deg, rgb(73, 73, 73) 0%, rgb(11, 11, 11) 100%);
+  background-image: url('../images/r3.png'),     -ms-linear-gradient(322deg, rgb(73, 73, 73) 0%, rgb(11, 11, 11) 100%);
+  background-image: url('../images/r3.png'),         linear-gradient(128deg, rgb(73, 73, 73) 0%, rgb(11, 11, 11) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-48 {
+  width: 100%;
+  height: 769px;
+  margin-top: -1px;
+  background-image: url('../images/analysis.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center top;
 }
 
 .element-5 {
@@ -671,14 +938,19 @@ body {
 
 .element-9 {
   position: relative;
-  z-index: 28;
-  width: 100%;
-  height: 2500px;
-  background-image: -webkit-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
-  background-image:    -moz-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
-  background-image:      -o-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
-  background-image:     -ms-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
-  background-image:         linear-gradient(130deg, rgb(255, 255, 255) 0%, rgb(255, 157, 0) 100%);
+  z-index: 24;
+  width: 53.1666666666%;
+  height: 407px;
+  margin-top: -407px;
+  background-image: url('../images/7product%20arrows.png'), -webkit-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(234, 231, 122) 99.04761904761905%);
+  background-image: url('../images/7product%20arrows.png'),    -moz-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(234, 231, 122) 99.04761904761905%);
+  background-image: url('../images/7product%20arrows.png'),      -o-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(234, 231, 122) 99.04761904761905%);
+  background-image: url('../images/7product%20arrows.png'),     -ms-linear-gradient(320deg, rgb(255, 255, 255) 0%, rgb(234, 231, 122) 99.04761904761905%);
+  background-image: url('../images/7product%20arrows.png'),         linear-gradient(130deg, rgb(255, 255, 255) 0%, rgb(234, 231, 122) 99.04761904761905%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
 }
 
 .image-1 {
@@ -689,174 +961,64 @@ body {
 }
 
 .image-10 {
-  clear: both;
-  z-index: 38;
-  width: 533px;
-  margin: -625px 0 0 59%;
+  z-index: 11;
+  width: 604px;
+  margin: -1221px 0 0 24.83073%;
 }
 
 .image-11 {
+  z-index: 17;
+  width: 159px;
+  margin: -335px 0 0 32.16276%;
+}
+
+.image-2 {
+  z-index: 40;
+  width: 104px;
+  margin: -1435px 0 0 13.34766%;
+}
+
+.image-3 {
+  z-index: 33;
+  width: 576px;
+  margin: -1580px 0 0 37.1992199999%;
+}
+
+.image-4 {
+  z-index: 41;
+  width: 128px;
+  margin: -1010px 0 0 11.58073%;
+}
+
+.image-5 {
+  z-index: 34;
+  width: 686px;
+  margin: -987px 0 0 37.1992199999%;
+}
+
+.image-6 {
+  z-index: 39;
+  width: 113px;
+  margin: -537px 0 0 3.5%;
+}
+
+.image-7 {
   clear: both;
   z-index: 63;
   width: 89px;
   margin: -449px 0 0 6.83073%;
 }
 
-.image-12 {
+.image-8 {
   z-index: 8;
   width: 322px;
   margin: -412px 0 0 8.2487%;
 }
 
-.image-13 {
-  z-index: 5;
-  width: 490px;
-  margin: -368px 0 0 31.16667%;
-}
-
-.image-14 {
-  z-index: 11;
-  width: 665px;
-  margin: -2755px 0 0 23.59896%;
-}
-
-.image-15 {
-  z-index: 12;
-  width: 974px;
-  margin: -2292px 0 0 8.83073%;
-}
-
-.image-16 {
-  z-index: 11;
-  width: 468px;
-  margin: -702px 0 0 9.33073%;
-}
-
-.image-17 {
-  z-index: 12;
-  width: 484px;
-  margin: -647px 0 0 34.33203%;
-}
-
-.image-18 {
-  z-index: 13;
-  width: 1016px;
-  margin: -1628px 0 0 7.7474%;
-}
-
-.image-19 {
-  z-index: 13;
-  width: 486px;
-  margin: -530px 0 0 54.83203%;
-}
-
-.image-2 {
-  z-index: 26;
-  width: 648px;
-  margin-top: -411px;
-}
-
-.image-20 {
-  z-index: 15;
-  width: 627px;
-  margin: -1136px 0 0 21.125%;
-}
-
-.image-21 {
-  z-index: 14;
-  width: 604px;
-  margin: -1221px 0 0 24.83073%;
-}
-
-.image-22 {
+.image-9 {
   z-index: 5;
   width: 486px;
   margin: -531px 0 0 7.83073%;
-}
-
-.image-23 {
-  z-index: 16;
-  width: 871px;
-  margin: -869px 0 0 14.25%;
-}
-
-.image-24 {
-  z-index: 20;
-  width: 468px;
-  margin: -595px 0 0 10%;
-}
-
-.image-25 {
-  z-index: 6;
-  width: 484px;
-  margin: -531px 0 0 50.79948%;
-}
-
-.image-26 {
-  z-index: 18;
-  width: 159px;
-  margin: -335px 0 0 32.16276%;
-}
-
-.image-27 {
-  z-index: 17;
-  width: 930px;
-  margin: -296px 0 0 14.25%;
-}
-
-.image-28 {
-  z-index: 21;
-  width: 484px;
-  margin: -451px 0 0 37.66667%;
-}
-
-.image-29 {
-  clear: both;
-  z-index: 22;
-  width: 486px;
-  margin: -570px 0 0 64.39974%;
-}
-
-.image-3 {
-  z-index: 35;
-  width: 1044px;
-  margin: -2318px 0 0 4.33073%;
-}
-
-.image-4 {
-  z-index: 40;
-  width: 104px;
-  margin: -1435px 0 0 13.34766%;
-}
-
-.image-5 {
-  z-index: 32;
-  width: 576px;
-  margin: -1580px 0 0 37.1992199999%;
-}
-
-.image-6 {
-  z-index: 41;
-  width: 128px;
-  margin: -1010px 0 0 11.58073%;
-}
-
-.image-7 {
-  z-index: 33;
-  width: 686px;
-  margin: -987px 0 0 37.1992199999%;
-}
-
-.image-8 {
-  z-index: 39;
-  width: 113px;
-  margin: -537px 0 0 3.5%;
-}
-
-.image-9 {
-  z-index: 36;
-  width: 468px;
-  margin: -625px 0 0 18.59896%;
 }
 
 .submit_email-1 {
@@ -889,7 +1051,7 @@ body {
 .text-10 {
   position: relative;
   clear: both;
-  z-index: 25;
+  z-index: 26;
   margin: -543px 0 0 44.34896%;
   font-family: Oswald;
   font-size: 2.25em;
@@ -899,7 +1061,7 @@ body {
 
 .text-11 {
   position: relative;
-  z-index: 24;
+  z-index: 25;
   width: 33.5833333333%;
   min-height: 124px;
   margin: -467px 0 0 56%;
@@ -911,7 +1073,7 @@ body {
 .text-12 {
   position: relative;
   clear: both;
-  z-index: 34;
+  z-index: 35;
   margin: -2442px 0 0 35.59766%;
   font-family: Oswald;
   font-size: 2.25em;
@@ -921,7 +1083,7 @@ body {
 
 .text-13 {
   position: relative;
-  z-index: 29;
+  z-index: 30;
   margin: -2373px 0 0 21.04948%;
   font-size: 1em;
   font-weight: 400;
@@ -930,7 +1092,7 @@ body {
 
 .text-14 {
   position: relative;
-  z-index: 31;
+  z-index: 32;
   margin: -1317px 0 0 11.34896%;
   font-size: 1em;
   font-weight: 700;
@@ -939,7 +1101,7 @@ body {
 
 .text-15 {
   position: relative;
-  z-index: 30;
+  z-index: 31;
   margin: -864px 0 0 13.34766%;
   font-size: 1em;
   font-weight: 700;
@@ -948,7 +1110,7 @@ body {
 
 .text-16 {
   position: relative;
-  z-index: 37;
+  z-index: 38;
   margin: -415px 0 0 0.84896%;
   font-size: 1em;
   font-weight: 700;
@@ -969,17 +1131,6 @@ body {
 
 .text-18 {
   position: relative;
-  z-index: 3;
-  width: 40.0833333333%;
-  margin: -219px 0 0 58.4987%;
-  font-family: Oswald;
-  font-size: 2.25em;
-  text-transform: uppercase;
-  color: rgb(255, 255, 255);
-}
-
-.text-19 {
-  position: relative;
   clear: both;
   z-index: 45;
   width: 23.3333333333%;
@@ -990,16 +1141,27 @@ body {
   color: rgb(0, 0, 0);
 }
 
+.text-19 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  width: 30.5833333333%;
+  margin: -351px 0 0 1.33073%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
 .text-2 {
   color: rgb(33, 34, 47);
 }
 
 .text-20 {
   position: relative;
-  clear: both;
-  z-index: 2;
-  width: 30.5833333333%;
-  margin: -351px 0 0 1.33073%;
+  z-index: 3;
+  width: 40.0833333333%;
+  margin: -219px 0 0 58.4987%;
   font-family: Oswald;
   font-size: 2.25em;
   text-transform: uppercase;
@@ -1039,6 +1201,12 @@ body {
 }
 
 .text-24 {
+  border-radius: 8px;
+  background-color: rgba(40, 40, 40, 0.4);
+  color: rgb(255, 255, 255);
+}
+
+.text-25 {
   position: relative;
   clear: both;
   z-index: 4;
@@ -1049,7 +1217,18 @@ body {
   color: rgb(14, 102, 170);
 }
 
-.text-25 {
+.text-26 {
+  position: relative;
+  clear: both;
+  z-index: 6;
+  margin: -536px 0 0 26.03125%;
+  font-family: Oswald;
+  font-size: 1.875em;
+  text-transform: uppercase;
+  color: rgb(14, 102, 170);
+}
+
+.text-27 {
   position: relative;
   z-index: 7;
   width: 61%;
@@ -1059,30 +1238,13 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-26 {
-  border-radius: 8px;
-  background-color: rgba(40, 40, 40, 0.4);
-  color: rgb(255, 255, 255);
-}
-
-.text-27 {
+.text-28 {
   position: relative;
   z-index: 6;
   margin: -471px 0 0 38.54948%;
   font-size: 1em;
   font-weight: 400;
   color: rgb(0, 0, 0);
-}
-
-.text-28 {
-  position: relative;
-  clear: both;
-  z-index: 6;
-  margin: -536px 0 0 26.03125%;
-  font-family: Oswald;
-  font-size: 1.875em;
-  text-transform: uppercase;
-  color: rgb(14, 102, 170);
 }
 
 .text-29 {
@@ -1112,7 +1274,7 @@ body {
 .text-30 {
   position: relative;
   clear: both;
-  z-index: 15;
+  z-index: 12;
   width: 67.5833333333%;
   margin: -2896px 0 0 24.83073%;
   font-family: Oswald;
@@ -1146,17 +1308,6 @@ body {
 .text-33 {
   position: relative;
   clear: both;
-  z-index: 9;
-  width: 40.0833333333%;
-  margin: -894px 0 0 37.91667%;
-  font-size: 2.25em;
-  text-transform: uppercase;
-  color: rgb(255, 255, 255);
-}
-
-.text-34 {
-  position: relative;
-  clear: both;
   z-index: 10;
   width: 40.0833333333%;
   margin: -537px 0 0 33.83203%;
@@ -1166,26 +1317,18 @@ body {
   color: rgb(14, 102, 170);
 }
 
+.text-34 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  width: 40.0833333333%;
+  margin: -894px 0 0 37.91667%;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
 .text-35 {
-  position: relative;
-  z-index: 16;
-  width: 61%;
-  min-height: 100px;
-  margin: -2784px 0 0 38.29948%;
-  font-size: 1em;
-  color: rgb(0, 0, 0);
-}
-
-.text-36 {
-  position: relative;
-  z-index: 10;
-  margin: -805px 0 0 13.78125%;
-  font-size: 1em;
-  font-weight: 400;
-  color: rgb(0, 0, 0);
-}
-
-.text-37 {
   position: relative;
   z-index: 11;
   width: 61%;
@@ -1195,7 +1338,17 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-38 {
+.text-36 {
+  position: relative;
+  z-index: 14;
+  width: 61%;
+  min-height: 100px;
+  margin: -2784px 0 0 38.29948%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-37 {
   position: relative;
   z-index: 3;
   width: 40.0833333333%;
@@ -1206,12 +1359,21 @@ body {
   color: rgb(255, 255, 255);
 }
 
+.text-38 {
+  position: relative;
+  z-index: 12;
+  margin: -805px 0 0 13.78125%;
+  font-size: 1em;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+}
+
 .text-39 {
   position: relative;
-  z-index: 17;
+  z-index: 16;
   width: 61%;
   min-height: 100px;
-  margin: -2320px 0 0 21.56641%;
+  margin: -2265px 0 0 21.56641%;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -1250,6 +1412,15 @@ body {
 
 .text-42 {
   position: relative;
+  z-index: 6;
+  margin: -599px 0 0 10.5%;
+  font-size: 1em;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+}
+
+.text-43 {
+  position: relative;
   z-index: 18;
   width: 61%;
   min-height: 100px;
@@ -1258,26 +1429,7 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-43 {
-  position: relative;
-  z-index: 7;
-  margin: -599px 0 0 10.5%;
-  font-size: 1em;
-  font-weight: 400;
-  color: rgb(0, 0, 0);
-}
-
 .text-44 {
-  position: relative;
-  z-index: 19;
-  width: 72.0833333333%;
-  min-height: 100px;
-  margin: -1258px 0 0 14.08073%;
-  font-size: 1em;
-  color: rgb(255, 255, 255);
-}
-
-.text-45 {
   position: relative;
   clear: both;
   z-index: 6;
@@ -1289,9 +1441,9 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-46 {
+.text-45 {
   position: relative;
-  z-index: 8;
+  z-index: 7;
   width: 24.75%;
   min-height: 59px;
   margin: -599px 0 0 60.04948%;
@@ -1300,20 +1452,30 @@ body {
   color: rgb(0, 0, 0);
 }
 
-.text-47 {
+.text-46 {
   position: relative;
-  z-index: 18;
+  z-index: 16;
   width: 35.25%;
   min-height: 100px;
-  margin: -1172px 0 0 30.39974%;
+  margin: -1158px 0 0 29.6%;
   font-size: 1em;
   color: rgb(0, 0, 0);
+}
+
+.text-47 {
+  position: relative;
+  z-index: 19;
+  width: 72.0833333333%;
+  min-height: 100px;
+  margin: -1258px 0 0 14.08073%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
 }
 
 .text-48 {
   position: relative;
   clear: both;
-  z-index: 16;
+  z-index: 15;
   width: 51.9166666666%;
   margin: -445px 0 0 29.59896%;
   font-size: 2.25em;
@@ -1342,25 +1504,15 @@ body {
 
 .text-50 {
   position: relative;
-  z-index: 19;
+  z-index: 18;
   width: 60.5833333333%;
   min-height: 100px;
-  margin: -919px 0 0 17.41667%;
+  margin: -897px 0 0 17.41667%;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
 
 .text-51 {
-  position: relative;
-  z-index: 23;
-  width: 61%;
-  min-height: 100px;
-  margin: -670px 0 0 31.41276%;
-  font-size: 1em;
-  color: rgb(255, 255, 255);
-}
-
-.text-52 {
   position: relative;
   clear: both;
   z-index: 12;
@@ -1371,9 +1523,19 @@ body {
   color: rgb(14, 102, 170);
 }
 
+.text-52 {
+  position: relative;
+  z-index: 22;
+  width: 61%;
+  min-height: 100px;
+  margin: -670px 0 0 31.41276%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
 .text-53 {
   position: relative;
-  z-index: 9;
+  z-index: 8;
   min-height: 100px;
   margin: -305px 0 0 63.59896%;
   font-size: 1em;
@@ -1383,7 +1545,7 @@ body {
 .text-54 {
   position: relative;
   clear: both;
-  z-index: 19;
+  z-index: 18;
   width: 61%;
   min-height: 100px;
   margin: -264px 0 0 47.33203%;
@@ -1396,7 +1558,7 @@ body {
   z-index: 20;
   width: 35.25%;
   min-height: 100px;
-  margin: -366px 0 0 30.39974%;
+  margin: -324px 0 0 28.79948%;
   font-size: 1em;
   color: rgb(255, 255, 255);
 }
@@ -1491,7 +1653,7 @@ body {
   position: fixed;
   top: 0;
   left: 85.6666666666%;
-  z-index: 25;
+  z-index: 24;
   width: 14.3333333333%;
   height: 57px;
   border-radius: 3px;
@@ -1504,7 +1666,7 @@ body {
   position: fixed;
   top: 0;
   left: 85.6666666666%;
-  z-index: 21;
+  z-index: 20;
   width: 14.3333333333%;
   height: 57px;
   border-radius: 3px;
@@ -1672,7 +1834,7 @@ body {
 .container ._button-24 {
   position: relative;
   float: left;
-  z-index: 17;
+  z-index: 16;
   width: 14.3333333333%;
   height: 57px;
   margin: -350px 0 0 47.33203%;
@@ -1833,7 +1995,7 @@ body {
     z-index: 44;
     width: 494px;
     height: 329px;
-    margin-left: 21.1529%;
+    margin-left: 21.14883%;
   }
 
   .submit_email ._input {
@@ -1845,14 +2007,44 @@ body {
     z-index: 0;
   }
 
-  .container .element-12 {
+  .container .element-10 {
     position: relative;
-    z-index: 43;
+    z-index: 28;
   }
 
-  .container .element-17 {
+  .container .element-11 {
     position: relative;
-    z-index: 47;
+    z-index: 29;
+  }
+
+  .container .element-12 {
+    position: relative;
+    z-index: 36;
+    margin-top: -610px;
+    margin-left: 14.5031%;
+    background-image: url('../images/r1.png'), -webkit-linear-gradient(320deg, rgb(252, 207, 114) 0%, rgb(243, 173, 5) 100%);
+    background-image: url('../images/r1.png'),    -moz-linear-gradient(320deg, rgb(252, 207, 114) 0%, rgb(243, 173, 5) 100%);
+    background-image: url('../images/r1.png'),      -o-linear-gradient(320deg, rgb(252, 207, 114) 0%, rgb(243, 173, 5) 100%);
+    background-image: url('../images/r1.png'),     -ms-linear-gradient(320deg, rgb(252, 207, 114) 0%, rgb(243, 173, 5) 100%);
+    background-image: url('../images/r1.png'),         linear-gradient(130deg, rgb(252, 207, 114) 0%, rgb(243, 173, 5) 100%);
+  }
+
+  .container .element-13 {
+    position: relative;
+    clear: both;
+    z-index: 37;
+    margin-top: -620px;
+    margin-left: 60.74984%;
+    background-image: url('../images/r3.png'), -webkit-linear-gradient(321deg, rgb(237, 189, 90) 0%, rgb(240, 141, 0) 100%);
+    background-image: url('../images/r3.png'),    -moz-linear-gradient(321deg, rgb(237, 189, 90) 0%, rgb(240, 141, 0) 100%);
+    background-image: url('../images/r3.png'),      -o-linear-gradient(321deg, rgb(237, 189, 90) 0%, rgb(240, 141, 0) 100%);
+    background-image: url('../images/r3.png'),     -ms-linear-gradient(321deg, rgb(237, 189, 90) 0%, rgb(240, 141, 0) 100%);
+    background-image: url('../images/r3.png'),         linear-gradient(129deg, rgb(237, 189, 90) 0%, rgb(240, 141, 0) 100%);
+  }
+
+  .container .element-15 {
+    position: relative;
+    z-index: 43;
   }
 
   .container .element-2 {
@@ -1860,10 +2052,15 @@ body {
     z-index: 9;
   }
 
+  .container .element-20 {
+    position: relative;
+    z-index: 47;
+  }
+
   .container .element-3 {
     position: relative;
     z-index: 14;
-    margin-left: 1.742%;
+    margin-left: 1.72977%;
   }
 
   .container .element-4 {
@@ -1896,7 +2093,9 @@ body {
 
   .container .element-9 {
     position: relative;
-    z-index: 28;
+    z-index: 24;
+    width: 54.5691906005%;
+    height: 351px;
   }
 
   .container .image-1 {
@@ -1906,84 +2105,50 @@ body {
     margin-left: 3.82942%;
   }
 
-  .container .image-10 {
-    position: relative;
-    clear: none;
-    z-index: 38;
-    width: 442px;
-    height: auto;
-    margin-left: 58.59851%;
-  }
-
-  .container .image-11 {
-    position: relative;
-    z-index: 63;
-    height: auto;
-    margin-left: 6.8306699999%;
-  }
-
   .container .image-2 {
-    position: relative;
-    z-index: 26;
-    width: 418px;
-    height: auto;
-    margin-top: -365px;
-  }
-
-  .container .image-3 {
-    position: relative;
-    clear: both;
-    z-index: 35;
-    width: 893px;
-    height: auto;
-    margin-top: -2239px;
-    margin-left: -1.28237%;
-  }
-
-  .container .image-4 {
     position: relative;
     z-index: 40;
     height: auto;
     margin-left: 13.33633%;
   }
 
-  .container .image-5 {
+  .container .image-3 {
     position: relative;
-    z-index: 32;
+    z-index: 33;
     width: 531px;
     height: auto;
     margin-top: -1631px;
     margin-left: 38.55527%;
   }
 
-  .container .image-6 {
+  .container .image-4 {
     position: relative;
     z-index: 41;
     height: auto;
     margin-left: 11.55081%;
   }
 
-  .container .image-7 {
+  .container .image-5 {
     position: relative;
-    z-index: 33;
+    z-index: 34;
     width: 547px;
     height: auto;
     margin-top: -934px;
     margin-left: 37.16275%;
   }
 
-  .container .image-8 {
+  .container .image-6 {
     position: relative;
     z-index: 39;
     height: auto;
     margin-left: 3.49897%;
   }
 
-  .container .image-9 {
+  .container .image-7 {
     position: relative;
-    z-index: 36;
+    z-index: 63;
     height: auto;
-    margin-left: 18.58138%;
+    margin-left: 6.8306699999%;
   }
 
   .container .submit_email-1 {
@@ -2004,54 +2169,53 @@ body {
 
   .container .text-10 {
     position: relative;
-    z-index: 25;
+    z-index: 26;
     margin-left: 44.34835%;
   }
 
   .container .text-11 {
     position: relative;
-    clear: both;
-    z-index: 24;
-    width: 69.6709585121%;
+    z-index: 25;
+    width: 45.4308093994%;
     margin-top: -383px;
-    margin-left: 48.0023399999%;
+    margin-left: 54.56919%;
     font-size: 0.875em;
   }
 
   .container .text-12 {
     position: relative;
-    z-index: 34;
+    z-index: 35;
     margin-left: 35.59753%;
   }
 
   .container .text-13 {
     position: relative;
-    z-index: 29;
+    z-index: 30;
     margin-left: 21.03732%;
   }
 
   .container .text-14 {
     position: relative;
-    z-index: 31;
+    z-index: 32;
     margin-left: 11.32779%;
     font-size: 0.875em;
   }
 
   .container .text-15 {
     position: relative;
-    z-index: 30;
+    z-index: 31;
     margin-left: 13.33633%;
     font-size: 0.875em;
   }
 
   .container .text-16 {
     position: relative;
-    z-index: 37;
+    z-index: 38;
     margin-left: 0.83633%;
     font-size: 0.875em;
   }
 
-  .container .text-19 {
+  .container .text-18 {
     position: relative;
     z-index: 45;
     width: 46.2140992167%;
@@ -2072,13 +2236,13 @@ body {
   .container .text-5 {
     position: relative;
     z-index: 19;
-    margin-left: 1.742%;
+    margin-left: 1.72977%;
   }
 
   .container .text-6 {
     position: relative;
     z-index: 18;
-    margin-left: 17.61722%;
+    margin-left: 17.60362%;
   }
 
   .container .text-7 {
@@ -2090,7 +2254,7 @@ body {
   .container .text-8 {
     position: relative;
     z-index: 11;
-    margin-left: 1.742%;
+    margin-left: 1.72977%;
   }
 
   .container .text-9 {
@@ -2104,7 +2268,7 @@ body {
     z-index: 8;
   }
 
-  .container-11 {
+  .container-10 {
     position: relative;
     z-index: 66;
   }
@@ -2133,7 +2297,7 @@ body {
     margin-left: 0.3317%;
   }
 
-  .submit_email .text-26 {
+  .submit_email .text-24 {
     margin-left: 0.32879%;
   }
 
@@ -2248,7 +2412,7 @@ body {
 
   .submit_email ._input-4 {
     z-index: 51;
-    margin-left: 0.36577%;
+    margin-left: 0.32879%;
   }
 }
 
@@ -2257,27 +2421,71 @@ body {
     font-size: 1em;
   }
 
-  .container .element-10 {
+  .container .element-14 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-11 {
+  .container .element-17 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-16 {
+  .container .element-21 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-20 {
+  .container .element-25 {
     position: relative;
     z-index: 10;
   }
 
-  .container .image-12 {
+  .container .element-30 {
+    position: relative;
+    z-index: 13;
+    width: 67.8213309024%;
+    height: 391px;
+    margin-top: -2758px;
+    margin-left: 18.33979%;
+  }
+
+  .container .element-32 {
+    position: relative;
+    z-index: 15;
+    width: 81.5861440291%;
+    height: 468px;
+    margin-top: -2207px;
+    margin-left: 7.10888%;
+  }
+
+  .container .element-37 {
+    position: relative;
+    z-index: 17;
+    margin-top: -1626px;
+  }
+
+  .container .element-44 {
+    position: relative;
+    z-index: 20;
+  }
+
+  .container .element-47 {
+    position: relative;
+    z-index: 21;
+    margin-left: 51.49983%;
+  }
+
+  .container .image-10 {
+    position: relative;
+    z-index: 11;
+    width: 461px;
+    height: auto;
+    margin-top: -1153px;
+    margin-left: 21.9989199999%;
+  }
+
+  .container .image-8 {
     position: relative;
     z-index: 8;
     width: 309px;
@@ -2286,70 +2494,13 @@ body {
     margin-left: 12.12255%;
   }
 
-  .container .image-14 {
-    position: relative;
-    z-index: 11;
-    width: 543px;
-    height: auto;
-    margin-top: -2692px;
-    margin-left: 23.60985%;
-  }
-
-  .container .image-15 {
-    position: relative;
-    z-index: 12;
-    width: 816px;
-    height: auto;
-    margin-top: -2273px;
-    margin-left: 3.61355%;
-  }
-
-  .container .image-18 {
-    position: relative;
-    z-index: 13;
-    width: 853px;
-    height: auto;
-    margin-top: -1620px;
-    margin-left: 7.56182%;
-  }
-
-  .container .image-21 {
-    position: relative;
-    z-index: 14;
-    width: 461px;
-    height: auto;
-    margin-top: -1153px;
-    margin-left: 21.9989199999%;
-  }
-
-  .container .image-24 {
-    position: relative;
-    z-index: 20;
-    height: auto;
-    margin-left: 9.99886%;
-  }
-
-  .container .image-28 {
-    position: relative;
-    z-index: 21;
-    height: auto;
-    margin-left: 37.66665%;
-  }
-
-  .container .image-29 {
-    position: relative;
-    z-index: 22;
-    height: auto;
-    margin-left: 64.39864%;
-  }
-
   .container .text-17 {
     position: relative;
     z-index: 2;
     margin-left: 7.99909%;
   }
 
-  .container .text-18 {
+  .container .text-20 {
     position: relative;
     z-index: 3;
     margin-left: 58.49761%;
@@ -2361,7 +2512,7 @@ body {
     margin-left: 27.33022%;
   }
 
-  .container .text-25 {
+  .container .text-27 {
     position: relative;
     z-index: 7;
     width: 47.0373746581%;
@@ -2371,26 +2522,27 @@ body {
 
   .container .text-30 {
     position: relative;
-    z-index: 15;
+    z-index: 12;
     margin-left: 24.82908%;
   }
 
-  .container .text-35 {
+  .container .text-36 {
     position: relative;
-    z-index: 16;
+    z-index: 14;
     margin-left: 38.29763%;
     font-size: 0.875em;
   }
 
   .container .text-39 {
     position: relative;
-    z-index: 17;
+    z-index: 16;
     width: 75.2051048313%;
-    margin-left: 21.60438%;
+    margin-top: -2234px;
+    margin-left: 21.51322%;
     font-size: 0.875em;
   }
 
-  .container .text-42 {
+  .container .text-43 {
     position: relative;
     z-index: 18;
     width: 73.3819507748%;
@@ -2398,26 +2550,26 @@ body {
     font-size: 0.875em;
   }
 
-  .container .text-44 {
+  .container .text-47 {
     position: relative;
     z-index: 19;
     margin-left: 14.07817%;
   }
 
-  .container .text-51 {
+  .container .text-52 {
     position: relative;
-    z-index: 23;
+    z-index: 22;
     margin-left: 31.41095%;
   }
 
-  .container-10 {
+  .container-11 {
     position: relative;
     z-index: 9;
   }
 
   .container-14 {
     position: relative;
-    z-index: 24;
+    z-index: 23;
   }
 
   .container-6 {
@@ -2427,58 +2579,52 @@ body {
 }
 
 @media(max-width: 1049px) {
-  .container .element-14 {
+  .container .element-18 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-18 {
+  .container .element-22 {
     position: relative;
     z-index: 3;
   }
 
-  .container .element-23 {
+  .container .element-24 {
     position: relative;
-    z-index: 8;
+    z-index: 5;
+    width: 46.5204957102%;
+    height: 358px;
+    margin-top: -358px;
+    margin-left: 31.4795%;
   }
 
   .container .element-29 {
     position: relative;
-    z-index: 15;
+    z-index: 8;
   }
 
-  .container .image-13 {
-    position: relative;
-    z-index: 5;
-    height: auto;
-    margin-left: 31.16659%;
-  }
-
-  .container .image-16 {
+  .container .element-34 {
     position: relative;
     z-index: 11;
-    height: auto;
-    margin-left: 9.32883%;
+    width: 50.8102955195%;
+    height: 593px;
+    margin-top: -640px;
   }
 
-  .container .image-17 {
+  .container .element-36 {
     position: relative;
-    z-index: 12;
-    height: auto;
-    margin-left: 34.33031%;
+    z-index: 10;
+    margin-left: 53.65974%;
   }
 
-  .container .image-19 {
+  .container .element-40 {
     position: relative;
-    clear: both;
-    z-index: 13;
-    height: auto;
-    margin-left: 54.83198%;
+    z-index: 14;
   }
 
-  .container .image-26 {
+  .container .image-11 {
     position: relative;
-    z-index: 18;
+    z-index: 17;
     height: auto;
     margin-top: -342px;
     margin-left: 15.199%;
@@ -2490,39 +2636,42 @@ body {
     margin-left: 14.49595%;
   }
 
-  .container .text-24 {
+  .container .text-25 {
     position: relative;
     z-index: 4;
     margin-left: 42.39901%;
   }
 
-  .container .text-27 {
+  .container .text-28 {
     position: relative;
     z-index: 6;
     margin-left: 38.54862%;
   }
 
-  .container .text-33 {
+  .container .text-34 {
     position: relative;
     z-index: 9;
-    margin-left: 37.91408%;
+    width: 50.7149666348%;
+    margin-top: -859px;
+    margin-left: 35.5993799999%;
   }
 
-  .container .text-36 {
+  .container .text-38 {
     position: relative;
-    z-index: 10;
-    margin-left: 13.77949%;
+    z-index: 12;
+    margin-top: -778px;
+    margin-left: 13.86439%;
   }
 
   .container .text-48 {
     position: relative;
-    z-index: 16;
+    z-index: 15;
     margin-left: 29.59813%;
   }
 
   .container .text-54 {
     position: relative;
-    z-index: 19;
+    z-index: 18;
     margin-left: 47.33079%;
   }
 
@@ -2531,14 +2680,14 @@ body {
     z-index: 7;
   }
 
-  .container-17 {
+  .container-18 {
     position: relative;
-    z-index: 14;
+    z-index: 13;
   }
 
   .container-22 {
     position: relative;
-    z-index: 20;
+    z-index: 19;
   }
 
   .container-9 {
@@ -2548,7 +2697,7 @@ body {
 
   .container ._button-24 {
     position: relative;
-    z-index: 17;
+    z-index: 16;
     margin-left: 47.33079%;
   }
 }
@@ -2561,6 +2710,8 @@ body {
   .container .wrapper {
     position: relative;
     z-index: 44;
+    width: 397px;
+    height: 265px;
     margin-top: -364px;
     margin-left: 21.1502%;
   }
@@ -2575,19 +2726,44 @@ body {
     z-index: 0;
   }
 
-  .container .element-12 {
+  .container .element-10 {
     position: relative;
-    z-index: 43;
+    z-index: 28;
   }
 
-  .container .element-17 {
+  .container .element-11 {
     position: relative;
-    z-index: 47;
+    z-index: 29;
+  }
+
+  .container .element-12 {
+    position: relative;
+    z-index: 36;
+    width: 45.2356020942%;
+    height: 506px;
+    margin-top: -620px;
+    margin-left: 14.02978%;
+  }
+
+  .container .element-13 {
+    position: relative;
+    z-index: 37;
+    margin-left: 60.74935%;
+  }
+
+  .container .element-15 {
+    position: relative;
+    z-index: 43;
   }
 
   .container .element-2 {
     position: relative;
     z-index: 9;
+  }
+
+  .container .element-20 {
+    position: relative;
+    z-index: 47;
   }
 
   .container .element-3 {
@@ -2626,7 +2802,7 @@ body {
 
   .container .element-9 {
     position: relative;
-    z-index: 28;
+    z-index: 24;
   }
 
   .container .image-1 {
@@ -2636,82 +2812,50 @@ body {
     margin-left: 3.8269%;
   }
 
-  .container .image-10 {
-    position: relative;
-    clear: both;
-    z-index: 38;
-    height: auto;
-    margin-left: 58.59784%;
-  }
-
-  .container .image-11 {
-    position: relative;
-    z-index: 63;
-    height: auto;
-    margin-left: 6.82919%;
-  }
-
   .container .image-2 {
-    position: relative;
-    z-index: 26;
-    width: 365px;
-    height: auto;
-    margin-top: -417px;
-  }
-
-  .container .image-3 {
-    position: relative;
-    z-index: 35;
-    width: 703px;
-    height: auto;
-    margin-top: -2219px;
-    margin-left: -1.56741%;
-  }
-
-  .container .image-4 {
     position: relative;
     z-index: 40;
     height: auto;
     margin-left: 13.34588%;
   }
 
-  .container .image-5 {
+  .container .image-3 {
     position: relative;
-    z-index: 32;
+    z-index: 33;
     width: 281px;
     height: auto;
     margin-top: -1452px;
     margin-left: 49.94601%;
   }
 
-  .container .image-6 {
+  .container .image-4 {
     position: relative;
     z-index: 41;
     height: auto;
     margin-left: 11.5805%;
   }
 
-  .container .image-7 {
+  .container .image-5 {
     position: relative;
-    z-index: 33;
+    z-index: 34;
     width: 403px;
     height: auto;
     margin-top: -1002px;
     margin-left: 37.17114%;
   }
 
-  .container .image-8 {
+  .container .image-6 {
     position: relative;
     z-index: 39;
     height: auto;
     margin-left: 3.49804%;
   }
 
-  .container .image-9 {
+  .container .image-7 {
     position: relative;
-    z-index: 36;
+    z-index: 63;
     height: auto;
-    margin-left: 18.59784%;
+    margin-left: 6.82919%;
   }
 
   .container .submit_email-1 {
@@ -2732,48 +2876,49 @@ body {
 
   .container .text-10 {
     position: relative;
-    z-index: 25;
+    z-index: 26;
     margin-left: 44.34719%;
   }
 
   .container .text-11 {
     position: relative;
-    z-index: 24;
-    margin-top: -483px;
-    margin-left: 55.57592%;
+    z-index: 25;
+    width: 43.9790575916%;
+    margin-top: -407px;
+    margin-left: 56.01931%;
   }
 
   .container .text-12 {
     position: relative;
-    z-index: 34;
+    z-index: 35;
     margin-left: 35.59719%;
   }
 
   .container .text-13 {
     position: relative;
-    z-index: 29;
+    z-index: 30;
     margin-left: 21.04876%;
   }
 
   .container .text-14 {
     position: relative;
-    z-index: 31;
+    z-index: 32;
     margin-left: 11.34817%;
   }
 
   .container .text-15 {
     position: relative;
-    z-index: 30;
+    z-index: 31;
     margin-left: 13.34588%;
   }
 
   .container .text-16 {
     position: relative;
-    z-index: 37;
+    z-index: 38;
     margin-left: 0.84588%;
   }
 
-  .container .text-19 {
+  .container .text-18 {
     position: relative;
     z-index: 45;
     margin-left: 39.49935%;
@@ -2828,7 +2973,7 @@ body {
     z-index: 8;
   }
 
-  .container-11 {
+  .container-10 {
     position: relative;
     z-index: 66;
   }
@@ -2857,7 +3002,7 @@ body {
     margin-left: 0.31926%;
   }
 
-  .submit_email .text-26 {
+  .submit_email .text-24 {
     margin-left: 0.34118%;
   }
 
@@ -2965,45 +3110,45 @@ body {
 }
 
 @media(max-width: 898px) {
-  .container .element-22 {
+  .container .element-27 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-26 {
+  .container .element-33 {
     position: relative;
     z-index: 3;
   }
 
-  .container .element-31 {
+  .container .element-43 {
     position: relative;
     z-index: 10;
+    width: 49.1091314031%;
+    height: 166px;
+    margin-top: -509px;
+    margin-left: 40.89087%;
+  }
+
+  .container .element-45 {
+    position: relative;
+    z-index: 9;
     margin-top: -270px;
     margin-left: 50%;
   }
 
-  .container .image-22 {
+  .container .image-9 {
     position: relative;
     z-index: 5;
     width: 343px;
     height: auto;
-    margin-top: -486px;
+    margin-top: -509px;
     margin-left: 0;
-  }
-
-  .container .image-25 {
-    position: relative;
-    z-index: 6;
-    width: 410px;
-    height: auto;
-    margin-top: -486px;
-    margin-left: 45.83623%;
   }
 
   .container .text-32 {
     position: relative;
     z-index: 1;
-    margin-left: 35.59472%;
+    margin-left: 35.59298%;
   }
 
   .container .text-40 {
@@ -3015,27 +3160,27 @@ body {
     font-size: 1.875em;
   }
 
-  .container .text-43 {
+  .container .text-42 {
     position: relative;
-    z-index: 7;
+    z-index: 6;
     width: 39.6436525612%;
     margin-top: -625px;
     margin-left: 2.73351%;
   }
 
-  .container .text-46 {
+  .container .text-45 {
     position: relative;
-    z-index: 8;
+    z-index: 7;
     margin-top: -625px;
-    margin-left: 55.99422%;
+    margin-left: 55.99248%;
   }
 
   .container .text-53 {
     position: relative;
-    z-index: 9;
+    z-index: 8;
     width: 43.986636971%;
     margin-top: -47px;
-    margin-left: 55.99422%;
+    margin-left: 55.99248%;
     font-size: 0.875em;
   }
 
@@ -3055,22 +3200,22 @@ body {
     font-size: 1em;
   }
 
-  .container .element-21 {
+  .container .element-26 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-25 {
+  .container .element-31 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-28 {
+  .container .element-38 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-30 {
+  .container .element-41 {
     position: relative;
     z-index: 8;
     margin-top: -342px;
@@ -3084,14 +3229,14 @@ body {
     margin-left: 0;
   }
 
-  .container .text-38 {
+  .container .text-37 {
     position: relative;
     z-index: 3;
     margin-top: -147px;
     margin-left: 54.51124%;
   }
 
-  .container .text-45 {
+  .container .text-44 {
     position: relative;
     z-index: 6;
     margin-left: 39.83182%;
@@ -3118,7 +3263,7 @@ body {
     z-index: 11;
   }
 
-  .text-52 {
+  .text-51 {
     position: relative;
     z-index: 12;
     margin-left: 29.5957%;
@@ -3126,27 +3271,70 @@ body {
 }
 
 @media(max-width: 751px) {
-  .container .element-10 {
+  .container .element-14 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-11 {
+  .container .element-17 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-16 {
+  .container .element-21 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-20 {
+  .container .element-25 {
     position: relative;
     z-index: 10;
   }
 
-  .container .image-12 {
+  .container .element-30 {
+    position: relative;
+    z-index: 13;
+    width: 90.0133155792%;
+    height: 354px;
+    margin-top: -2708px;
+    margin-left: 6.75558%;
+  }
+
+  .container .element-32 {
+    position: relative;
+    z-index: 15;
+    width: 88.948069241%;
+    height: 357px;
+    margin-top: -2119px;
+    margin-left: 5.31999%;
+  }
+
+  .container .element-37 {
+    position: relative;
+    z-index: 17;
+    margin-top: -1624px;
+  }
+
+  .container .element-44 {
+    position: relative;
+    z-index: 20;
+  }
+
+  .container .element-47 {
+    position: relative;
+    z-index: 21;
+    margin-left: 51.498%;
+  }
+
+  .container .image-10 {
+    position: relative;
+    z-index: 11;
+    height: auto;
+    margin-top: -1137px;
+    margin-left: 9.00258%;
+  }
+
+  .container .image-8 {
     position: relative;
     z-index: 8;
     width: 212px;
@@ -3155,71 +3343,13 @@ body {
     margin-left: 1.36901%;
   }
 
-  .container .image-14 {
-    position: relative;
-    z-index: 11;
-    width: 409px;
-    height: auto;
-    margin-top: -2684px;
-    margin-left: 7.7376%;
-  }
-
-  .container .image-15 {
-    position: relative;
-    clear: both;
-    z-index: 12;
-    width: 751px;
-    height: auto;
-    margin-top: -2266px;
-    margin-left: -42.39972%;
-  }
-
-  .container .image-18 {
-    position: relative;
-    clear: both;
-    z-index: 13;
-    height: auto;
-    margin-top: -1627px;
-    margin-left: 0;
-  }
-
-  .container .image-21 {
-    position: relative;
-    z-index: 14;
-    height: auto;
-    margin-top: -1137px;
-    margin-left: 9.00258%;
-  }
-
-  .container .image-24 {
-    position: relative;
-    z-index: 20;
-    height: auto;
-    margin-left: 9.99917%;
-  }
-
-  .container .image-28 {
-    position: relative;
-    clear: both;
-    z-index: 21;
-    height: auto;
-    margin-left: 37.65396%;
-  }
-
-  .container .image-29 {
-    position: relative;
-    z-index: 22;
-    height: auto;
-    margin-left: 64.39955%;
-  }
-
   .container .text-17 {
     position: relative;
     z-index: 2;
     margin-left: 7.99975%;
   }
 
-  .container .text-18 {
+  .container .text-20 {
     position: relative;
     z-index: 3;
     margin-left: 58.497%;
@@ -3231,7 +3361,7 @@ body {
     margin-left: 27.32815%;
   }
 
-  .container .text-25 {
+  .container .text-27 {
     position: relative;
     z-index: 7;
     margin-left: 52.96064%;
@@ -3239,52 +3369,55 @@ body {
 
   .container .text-30 {
     position: relative;
-    z-index: 15;
+    z-index: 12;
     margin-left: 24.81899%;
     font-size: 1.875em;
     text-align: center;
   }
 
-  .container .text-35 {
+  .container .text-36 {
     position: relative;
-    z-index: 16;
+    z-index: 14;
     margin-top: -2735px;
     margin-left: 26.43975%;
   }
 
   .container .text-39 {
     position: relative;
-    z-index: 17;
-    margin-left: 21.565%;
+    z-index: 16;
+    width: 89.0812250332%;
+    margin-top: -2186px;
+    margin-left: 7.68767%;
   }
 
-  .container .text-42 {
+  .container .text-43 {
     position: relative;
     z-index: 18;
-    margin-left: 20.89922%;
+    margin-top: -1643px;
+    margin-left: 18.00724%;
   }
 
-  .container .text-44 {
+  .container .text-47 {
     position: relative;
     z-index: 19;
     margin-left: 14.06458%;
   }
 
-  .container .text-51 {
+  .container .text-52 {
     position: relative;
-    z-index: 23;
-    margin-top: -711px;
-    margin-left: 30.39697%;
+    z-index: 22;
+    margin-top: -626px;
+    margin-left: 15.2%;
   }
 
-  .container-10 {
+  .container-11 {
     position: relative;
     z-index: 9;
   }
 
   .container-14 {
     position: relative;
-    z-index: 24;
+    z-index: 23;
   }
 
   .container-6 {
@@ -3305,8 +3438,6 @@ body {
   .container .wrapper {
     position: relative;
     z-index: 44;
-    width: 397px;
-    height: 265px;
     margin-top: -362px;
     margin-left: 0;
   }
@@ -3315,36 +3446,59 @@ body {
     position: relative;
   }
 
+  .container .element-10 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .container .element-11 {
+    position: relative;
+    z-index: 29;
+  }
+
   .container .element-12 {
+    position: relative;
+    z-index: 36;
+    margin-top: -625px;
+    margin-left: 20.24768%;
+  }
+
+  .container .element-13 {
+    position: relative;
+    z-index: 37;
+    margin-left: 60.74973%;
+  }
+
+  .container .element-15 {
     position: relative;
     z-index: 43;
   }
 
-  .container .element-17 {
+  .container .element-20 {
     position: relative;
     z-index: 47;
   }
 
   .container .element-1,
-  .container .element-21 {
+  .container .element-26 {
     position: relative;
     z-index: 0;
-  }
-
-  .container .element-25 {
-    position: relative;
-    z-index: 1;
-  }
-
-  .container .element-28 {
-    position: relative;
-    z-index: 5;
   }
 
   .container .element-3 {
     position: relative;
     z-index: 14;
     margin-left: 1.71674%;
+  }
+
+  .container .element-31 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .container .element-38 {
+    position: relative;
+    z-index: 5;
   }
 
   .container .element-4 {
@@ -3377,7 +3531,10 @@ body {
 
   .container .element-9 {
     position: relative;
-    z-index: 28;
+    z-index: 24;
+    width: 77.2532188841%;
+    height: 390px;
+    margin-top: -550px;
   }
 
   .container .image-1 {
@@ -3386,82 +3543,48 @@ body {
     height: auto;
   }
 
-  .container .image-10 {
-    position: relative;
-    z-index: 38;
-    height: auto;
-    margin-top: -537px;
-    margin-left: 40.0549899999%;
-  }
-
-  .container .image-11 {
-    position: relative;
-    z-index: 63;
-    height: auto;
-    margin-left: 6.82672%;
-  }
-
   .container .image-2 {
-    position: relative;
-    z-index: 26;
-    height: auto;
-    margin-top: -494px;
-    margin-left: 5.37822%;
-  }
-
-  .container .image-3 {
-    position: relative;
-    z-index: 35;
-    width: 520px;
-    height: auto;
-    margin-top: -2198px;
-    margin-left: -0.9992%;
-  }
-
-  .container .image-4 {
     position: relative;
     z-index: 40;
     height: auto;
     margin-left: 13.34496%;
   }
 
-  .container .image-5 {
+  .container .image-3 {
     position: relative;
-    z-index: 32;
+    z-index: 33;
     height: auto;
-    margin-top: -1593px;
-    margin-left: 37.19823%;
+    margin-top: -1594px;
+    margin-left: 17.39539%;
   }
 
-  .container .image-6 {
+  .container .image-4 {
     position: relative;
     z-index: 41;
     height: auto;
     margin-left: 11.57681%;
   }
 
-  .container .image-7 {
+  .container .image-5 {
     position: relative;
-    z-index: 33;
+    z-index: 34;
     height: auto;
-    margin-top: -1032px;
-    margin-left: 37.19823%;
+    margin-top: -1127px;
+    margin-left: 0;
   }
 
-  .container .image-8 {
+  .container .image-6 {
     position: relative;
     z-index: 39;
     height: auto;
     margin-left: 3.49607%;
   }
 
-  .container .image-9 {
+  .container .image-7 {
     position: relative;
-    z-index: 36;
-    width: 357px;
+    z-index: 63;
     height: auto;
-    margin-top: -620px;
-    margin-left: 16.79632%;
+    margin-left: 6.82672%;
   }
 
   .container .submit_email-1 {
@@ -3484,51 +3607,51 @@ body {
 
   .container .text-10 {
     position: relative;
-    z-index: 25;
+    z-index: 26;
     margin-left: 44.3446%;
   }
 
   .container .text-11 {
     position: relative;
-    clear: none;
-    z-index: 24;
-    margin-top: -251px;
-    margin-left: 7.52638%;
+    z-index: 25;
+    width: 76.3948497854%;
+    margin-top: -240px;
+    margin-left: 23.6051499999%;
     font-size: 0.75em;
   }
 
   .container .text-12 {
     position: relative;
-    z-index: 34;
+    z-index: 35;
     margin-left: 35.59326%;
   }
 
   .container .text-13 {
     position: relative;
-    z-index: 29;
+    z-index: 30;
     margin-top: -2296px;
     margin-left: 21.99571%;
   }
 
   .container .text-14 {
     position: relative;
-    z-index: 31;
+    z-index: 32;
     margin-left: 11.34657%;
   }
 
   .container .text-15 {
     position: relative;
-    z-index: 30;
+    z-index: 31;
     margin-left: 13.34496%;
   }
 
   .container .text-16 {
     position: relative;
-    z-index: 37;
+    z-index: 38;
     margin-left: 0.84496%;
   }
 
-  .container .text-19 {
+  .container .text-18 {
     position: relative;
     z-index: 45;
     margin-left: 39.49839%;
@@ -3547,7 +3670,7 @@ body {
     margin-top: -314px;
   }
 
-  .container .text-38 {
+  .container .text-37 {
     position: relative;
     z-index: 3;
     margin-left: 54.51091%;
@@ -3560,7 +3683,7 @@ body {
     font-size: 0.75em;
   }
 
-  .container .text-45 {
+  .container .text-44 {
     position: relative;
     z-index: 6;
     margin-left: 39.83146%;
@@ -3609,13 +3732,13 @@ body {
     font-size: 0.75em;
   }
 
-  .container .element-30,
+  .container .element-41,
   .container-1 {
     position: relative;
     z-index: 8;
   }
 
-  .container-11 {
+  .container-10 {
     position: relative;
     z-index: 66;
   }
@@ -3660,11 +3783,11 @@ body {
     margin-left: 0.3459%;
   }
 
-  .submit_email .text-26 {
+  .submit_email .text-24 {
     margin-left: 0.34455%;
   }
 
-  .text-52 {
+  .text-51 {
     position: relative;
     z-index: 12;
     margin-left: 29.59809%;
@@ -3786,58 +3909,50 @@ body {
 }
 
 @media(max-width: 548px) {
-  .container .element-14 {
+  .container .element-18 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-18 {
+  .container .element-22 {
     position: relative;
     z-index: 3;
   }
 
-  .container .element-23 {
+  .container .element-24 {
     position: relative;
-    z-index: 8;
+    z-index: 5;
+    width: 88.3211678832%;
+    height: 365px;
+    margin-top: -365px;
+    margin-left: 5.10949%;
   }
 
   .container .element-29 {
     position: relative;
-    z-index: 15;
+    z-index: 8;
   }
 
-  .container .image-13 {
-    position: relative;
-    z-index: 5;
-    height: auto;
-    margin-left: 0;
-  }
-
-  .container .image-16 {
+  .container .element-34 {
     position: relative;
     z-index: 11;
-    height: auto;
-    margin-left: 9.32938%;
+    margin-top: -736px;
   }
 
-  .container .image-17 {
+  .container .element-36 {
     position: relative;
-    clear: both;
-    z-index: 12;
-    height: auto;
-    margin-left: 34.32938%;
+    z-index: 10;
+    margin-left: 53.66389%;
   }
 
-  .container .image-19 {
+  .container .element-40 {
     position: relative;
-    z-index: 13;
-    height: auto;
-    margin-left: 54.82436%;
+    z-index: 14;
   }
 
-  .container .image-26 {
+  .container .image-11 {
     position: relative;
-    z-index: 18;
+    z-index: 17;
     height: auto;
     margin-top: -264px;
     margin-left: 1.38287%;
@@ -3846,10 +3961,10 @@ body {
   .container .text-21 {
     position: relative;
     z-index: 1;
-    margin-left: 14.49304%;
+    margin-left: 14.48734%;
   }
 
-  .container .text-24 {
+  .container .text-25 {
     position: relative;
     z-index: 4;
     width: 72.4452554744%;
@@ -3857,37 +3972,37 @@ body {
     margin-left: 12.2262799999%;
   }
 
-  .container .text-27 {
+  .container .text-28 {
     position: relative;
     z-index: 6;
     margin-top: -480px;
-    margin-left: 7.52737%;
+    margin-left: 7.52167%;
   }
 
-  .container .text-33 {
+  .container .text-34 {
     position: relative;
     z-index: 9;
-    margin-top: -914px;
-    margin-left: 37.19206%;
+    margin-top: -865px;
+    margin-left: 37.2%;
   }
 
-  .container .text-36 {
+  .container .text-38 {
     position: relative;
-    z-index: 10;
-    margin-top: -816px;
+    z-index: 12;
+    margin-top: -723px;
     margin-left: 1.76209%;
   }
 
   .container .text-48 {
     position: relative;
-    z-index: 16;
+    z-index: 15;
     margin-top: -492px;
-    margin-left: 28.7979%;
+    margin-left: 28.79505%;
   }
 
   .container .text-54 {
     position: relative;
-    z-index: 19;
+    z-index: 18;
     margin-left: 47.3255%;
   }
 
@@ -3896,14 +4011,14 @@ body {
     z-index: 7;
   }
 
-  .container-17 {
+  .container-18 {
     position: relative;
-    z-index: 14;
+    z-index: 13;
   }
 
   .container-22 {
     position: relative;
-    z-index: 20;
+    z-index: 19;
     margin-top: 225px;
   }
 
@@ -3914,9 +4029,9 @@ body {
 
   .container ._button-24 {
     position: relative;
-    z-index: 17;
+    z-index: 16;
     margin-top: -117px;
-    margin-left: 57.59295%;
+    margin-left: 57.5901%;
   }
 }
 
@@ -3925,59 +4040,59 @@ body {
     font-size: 1em;
   }
 
-  .container .element-13 {
+  .container .element-16 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-15 {
+  .container .element-19 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-19 {
+  .container .element-23 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-24 {
+  .container .element-28 {
     position: relative;
     z-index: 9;
   }
 
-  .container .element-27 {
+  .container .element-35 {
     position: relative;
     z-index: 13;
   }
 
-  .container .image-20 {
+  .container .element-39 {
     position: relative;
-    clear: both;
     z-index: 15;
-    height: auto;
-    margin-top: -1101px;
-    margin-left: 10.84706%;
+    width: 97.8043912175%;
+    height: 119px;
+    margin-top: -1099px;
+    margin-left: 0;
   }
 
-  .container .image-23 {
+  .container .element-42 {
     position: relative;
-    clear: both;
-    z-index: 16;
-    height: auto;
-    margin-top: -821px;
-    margin-left: 10.84706%;
-  }
-
-  .container .image-27 {
-    position: relative;
-    clear: both;
     z-index: 17;
-    height: auto;
-    margin-top: -275px;
-    margin-left: -49.62263%;
+    width: 100%;
+    height: 291px;
+    margin-top: -765px;
+    margin-left: 0;
   }
 
-  .container .text-20 {
+  .container .element-46 {
+    position: relative;
+    z-index: 19;
+    width: 100%;
+    height: 142px;
+    margin-top: -288px;
+    margin-left: 0;
+  }
+
+  .container .text-19 {
     position: relative;
     z-index: 2;
     margin-left: 1.32236%;
@@ -3990,11 +4105,11 @@ body {
     margin-left: 52.79753%;
   }
 
-  .container .text-28 {
+  .container .text-26 {
     position: relative;
     z-index: 6;
     width: 97.4051896207%;
-    margin-left: 2.58857%;
+    margin-left: 2.58234%;
   }
 
   .container .text-29 {
@@ -4006,14 +4121,14 @@ body {
     font-size: 0.875em;
   }
 
-  .container .text-34 {
+  .container .text-33 {
     position: relative;
     z-index: 10;
     width: 53.8922155688%;
     margin-left: 22.79192%;
   }
 
-  .container .text-37 {
+  .container .text-35 {
     position: relative;
     z-index: 11;
     margin-top: -380px;
@@ -4027,24 +4142,24 @@ body {
     margin-left: 9.98004%;
   }
 
-  .container .text-47 {
+  .container .text-46 {
     position: relative;
-    z-index: 18;
+    z-index: 16;
+    margin-top: -1172px;
     margin-left: 30.39858%;
   }
 
   .container .text-50 {
     position: relative;
-    z-index: 19;
-    margin-top: -921px;
-    margin-left: 30.39858%;
+    z-index: 18;
+    margin-top: -865px;
+    margin-left: 28.79242%;
   }
 
   .container .text-55 {
     position: relative;
     z-index: 20;
     width: 82.4351297405%;
-    margin-top: -324px;
     margin-left: 13.24227%;
   }
 
@@ -4053,7 +4168,7 @@ body {
     z-index: 8;
   }
 
-  .container-18 {
+  .container-17 {
     position: relative;
     z-index: 12;
   }
@@ -4070,88 +4185,78 @@ body {
 }
 
 @media(max-width: 449px) {
-  .container .element-10 {
+  .container .element-14 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-11 {
+  .container .element-17 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-16 {
+  .container .element-21 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-20 {
+  .container .element-25 {
     position: relative;
     z-index: 10;
   }
 
-  .container .image-12 {
+  .container .element-30 {
+    position: relative;
+    clear: both;
+    z-index: 13;
+    width: 101.3363028953%;
+    height: 232px;
+    margin-top: -2661px;
+    margin-left: 0;
+  }
+
+  .container .element-32 {
+    position: relative;
+    z-index: 15;
+    width: 100%;
+    height: 246px;
+    margin-top: -2130px;
+    margin-left: 0;
+  }
+
+  .container .element-37 {
+    position: relative;
+    z-index: 17;
+    margin-top: -1653px;
+  }
+
+  .container .element-44 {
+    position: relative;
+    z-index: 20;
+  }
+
+  .container .element-47 {
+    position: relative;
+    z-index: 21;
+    margin-left: 51.49986%;
+  }
+
+  .container .image-10 {
+    position: relative;
+    z-index: 11;
+    width: 320px;
+    height: auto;
+    margin-top: -1145px;
+    margin-left: 5.07726%;
+  }
+
+  .container .image-8 {
     position: relative;
     z-index: 8;
     width: 160px;
     height: auto;
     margin-top: -270px;
-    margin-left: 0.73079%;
-  }
-
-  .container .image-14 {
-    position: relative;
-    z-index: 11;
-    height: auto;
-    margin-top: -2664px;
-    margin-left: 0;
-  }
-
-  .container .image-15 {
-    position: relative;
-    z-index: 12;
-    height: auto;
-    margin-top: -2263px;
-    margin-left: -93.22801%;
-  }
-
-  .container .image-18 {
-    position: relative;
-    z-index: 13;
-    height: auto;
-    margin-top: -1583px;
-    margin-left: -36.69613%;
-  }
-
-  .container .image-21 {
-    position: relative;
-    z-index: 14;
-    width: 320px;
-    height: auto;
-    margin-top: -1145px;
-    margin-left: 5.11205%;
-  }
-
-  .container .image-24 {
-    position: relative;
-    clear: both;
-    z-index: 20;
-    height: auto;
-    margin-left: 9.84479%;
-  }
-
-  .container .image-28 {
-    position: relative;
-    z-index: 21;
-    height: auto;
-    margin-left: 37.6635599999%;
-  }
-
-  .container .image-29 {
-    position: relative;
-    z-index: 22;
-    height: auto;
-    margin-left: 64.39658%;
+    margin-left: 0.70295%;
   }
 
   .container .text-17 {
@@ -4161,7 +4266,7 @@ body {
     font-size: 1.875em;
   }
 
-  .container .text-18 {
+  .container .text-20 {
     position: relative;
     z-index: 3;
     margin-left: 58.49805%;
@@ -4174,7 +4279,7 @@ body {
     margin-left: 27.32809%;
   }
 
-  .container .text-25 {
+  .container .text-27 {
     position: relative;
     z-index: 7;
     margin-top: -318px;
@@ -4183,50 +4288,54 @@ body {
 
   .container .text-30 {
     position: relative;
-    z-index: 15;
-    margin-left: 24.67636%;
+    z-index: 12;
+    margin-left: 24.60677%;
   }
 
-  .container .text-35 {
+  .container .text-36 {
     position: relative;
-    z-index: 16;
+    z-index: 14;
     margin-top: -2716px;
-    margin-left: 9.84479%;
+    margin-left: 9.76476%;
   }
 
   .container .text-39 {
     position: relative;
-    z-index: 17;
-    margin-left: 21.48177%;
+    z-index: 16;
+    width: 89.977728285%;
+    margin-top: -2235px;
+    margin-left: 9.87959%;
   }
 
-  .container .text-42 {
+  .container .text-43 {
     position: relative;
     z-index: 18;
-    margin-left: 20.74401%;
+    margin-top: -1683px;
+    margin-left: 9.87959%;
   }
 
-  .container .text-44 {
+  .container .text-47 {
     position: relative;
     z-index: 19;
-    margin-left: 14.0799%;
+    margin-top: -1259px;
+    margin-left: 9.87959%;
   }
 
-  .container .text-51 {
+  .container .text-52 {
     position: relative;
-    z-index: 23;
-    margin-top: -736px;
-    margin-left: 30.39741%;
+    z-index: 22;
+    margin-top: -637px;
+    margin-left: 9.9979099999%;
   }
 
-  .container-10 {
+  .container-11 {
     position: relative;
     z-index: 9;
   }
 
   .container-14 {
     position: relative;
-    z-index: 24;
+    z-index: 23;
   }
 
   .container-6 {
@@ -4247,7 +4356,9 @@ body {
   .container .wrapper {
     position: relative;
     z-index: 44;
-    margin-top: -375px;
+    width: 349px;
+    height: 232px;
+    margin-top: -366px;
   }
 
   .submit_email ._input {
@@ -4259,19 +4370,42 @@ body {
     z-index: 0;
   }
 
-  .container .element-12 {
+  .container .element-10 {
     position: relative;
-    z-index: 43;
+    z-index: 28;
   }
 
-  .container .element-17 {
+  .container .element-11 {
     position: relative;
-    z-index: 47;
+    z-index: 29;
+  }
+
+  .container .element-12 {
+    position: relative;
+    z-index: 36;
+    margin-left: 20.24219%;
+  }
+
+  .container .element-13 {
+    position: relative;
+    clear: none;
+    z-index: 37;
+    margin-left: 60.41797%;
+  }
+
+  .container .element-15 {
+    position: relative;
+    z-index: 43;
   }
 
   .container .element-2 {
     position: relative;
     z-index: 9;
+  }
+
+  .container .element-20 {
+    position: relative;
+    z-index: 47;
   }
 
   .container .element-3 {
@@ -4310,7 +4444,9 @@ body {
 
   .container .element-9 {
     position: relative;
-    z-index: 28;
+    z-index: 24;
+    width: 100%;
+    height: 294px;
   }
 
   .container .image-1 {
@@ -4320,84 +4456,48 @@ body {
     margin-left: 3.82422%;
   }
 
-  .container .image-10 {
-    position: relative;
-    z-index: 38;
-    width: 346px;
-    height: auto;
-    margin-top: -385px;
-    margin-left: 30.39844%;
-  }
-
-  .container .image-11 {
-    position: relative;
-    z-index: 63;
-    height: auto;
-    margin-left: 6.82813%;
-  }
-
   .container .image-2 {
-    position: relative;
-    z-index: 26;
-    height: auto;
-    margin-left: 0;
-  }
-
-  .container .image-3 {
-    position: relative;
-    z-index: 35;
-    width: 410px;
-    height: auto;
-    margin-top: -2071px;
-    margin-left: -2.5%;
-  }
-
-  .container .image-4 {
     position: relative;
     z-index: 40;
     height: auto;
     margin-left: 13.34766%;
   }
 
-  .container .image-5 {
+  .container .image-3 {
     position: relative;
-    clear: both;
-    z-index: 32;
+    z-index: 33;
     height: auto;
-    margin-top: -1589px;
-    margin-left: 37.1992199999%;
+    margin-top: -1592px;
+    margin-left: 29.59766%;
   }
 
-  .container .image-6 {
+  .container .image-4 {
     position: relative;
     z-index: 41;
     height: auto;
     margin-left: 11.57813%;
   }
 
-  .container .image-7 {
+  .container .image-5 {
     position: relative;
     clear: both;
-    z-index: 33;
+    z-index: 34;
     height: auto;
-    margin-top: -1082px;
-    margin-left: 18.59766%;
+    margin-top: -1120px;
   }
 
-  .container .image-8 {
+  .container .image-6 {
     position: relative;
     z-index: 39;
     height: auto;
     margin-left: 3.5%;
   }
 
-  .container .image-9 {
+  .container .image-7 {
     position: relative;
-    clear: both;
-    z-index: 36;
+    z-index: 63;
     height: auto;
-    margin-top: -740px;
-    margin-left: 18.59766%;
+    margin-left: 6.82813%;
   }
 
   .container .submit_email-1 {
@@ -4419,51 +4519,52 @@ body {
 
   .container .text-10 {
     position: relative;
-    z-index: 25;
-    margin-left: 44.34766%;
+    z-index: 26;
+    width: 44%;
+    margin-top: -550px;
+    margin-left: 56%;
   }
 
   .container .text-11 {
     position: relative;
-    clear: both;
-    z-index: 24;
-    width: 110%;
-    margin-top: -264px;
+    z-index: 25;
+    width: 100%;
+    margin-top: -256px;
     margin-left: 0;
   }
 
   .container .text-12 {
     position: relative;
-    z-index: 34;
+    z-index: 35;
     margin-left: 35.59766%;
   }
 
   .container .text-13 {
     position: relative;
-    z-index: 29;
+    z-index: 30;
     margin-top: -2216px;
     margin-left: 16%;
   }
 
   .container .text-14 {
     position: relative;
-    z-index: 31;
+    z-index: 32;
     margin-left: 11.34766%;
   }
 
   .container .text-15 {
     position: relative;
-    z-index: 30;
+    z-index: 31;
     margin-left: 13.34766%;
   }
 
   .container .text-16 {
     position: relative;
-    z-index: 37;
+    z-index: 38;
     margin-left: 0.84766%;
   }
 
-  .container .text-19 {
+  .container .text-18 {
     position: relative;
     z-index: 45;
     margin-left: 39.5%;
@@ -4516,7 +4617,7 @@ body {
     z-index: 8;
   }
 
-  .container-11 {
+  .container-10 {
     position: relative;
     z-index: 66;
   }
@@ -4545,7 +4646,7 @@ body {
     margin-left: 0.34393%;
   }
 
-  .submit_email .text-26 {
+  .submit_email .text-24 {
     margin-left: 0.33213%;
   }
 
@@ -4653,22 +4754,22 @@ body {
 }
 
 @media(max-width: 351px) {
-  .container .element-21 {
+  .container .element-26 {
     position: relative;
     z-index: 0;
   }
 
-  .container .element-25 {
+  .container .element-31 {
     position: relative;
     z-index: 1;
   }
 
-  .container .element-28 {
+  .container .element-38 {
     position: relative;
     z-index: 5;
   }
 
-  .container .element-30 {
+  .container .element-41 {
     position: relative;
     z-index: 8;
     width: 44.1595441595%;
@@ -4681,13 +4782,13 @@ body {
     margin-top: -285px;
   }
 
-  .container .text-38 {
+  .container .text-37 {
     position: relative;
     z-index: 3;
     margin-left: 54.50944%;
   }
 
-  .container .text-45 {
+  .container .text-44 {
     position: relative;
     z-index: 6;
     margin-left: 50.79683%;
@@ -4714,7 +4815,7 @@ body {
     z-index: 11;
   }
 
-  .text-52 {
+  .text-51 {
     position: relative;
     z-index: 12;
     margin-left: 29.59847%;
