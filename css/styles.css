@@ -74,7 +74,7 @@ body {
 .text-29 p,
 .text-38 p,
 .text-49 p,
-.text-52 p,
+.text-51 p,
 .text-54 p {
   margin-bottom: 1em;
 }
@@ -256,10 +256,9 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 11;
+  z-index: 12;
   width: 100%;
-  height: 930px;
-  margin-top: 41px;
+  height: 1041px;
 }
 
 .container-3 {
@@ -878,9 +877,10 @@ body {
 }
 
 .element-48 {
+  clear: both;
   width: 100%;
-  height: 769px;
-  margin-top: -1px;
+  height: 768px;
+  margin-top: 29px;
   background-image: url('../images/analysis.jpg');
   background-repeat: no-repeat;
   background-size: contain;
@@ -1521,23 +1521,20 @@ body {
 
 .text-51 {
   position: relative;
-  clear: both;
-  z-index: 12;
-  margin: 21px 0 0 29.59896%;
-  font-family: Oswald;
-  font-size: 2.25em;
-  text-transform: uppercase;
-  color: rgb(14, 102, 170);
-}
-
-.text-52 {
-  position: relative;
   z-index: 22;
   width: 61%;
   min-height: 100px;
   margin: -670px 0 0 31.41276%;
   font-size: 1em;
   color: rgb(255, 255, 255);
+}
+
+.text-52 {
+  margin: 41px 0 0 29.6%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(14, 102, 170);
 }
 
 .text-53 {
@@ -2154,7 +2151,7 @@ body {
     width: 531px;
     height: auto;
     margin-top: -1553px;
-    margin-left: 38.58382%;
+    margin-left: 38.57566%;
   }
 
   .container .image-4 {
@@ -2278,7 +2275,7 @@ body {
   .container .text-6 {
     position: relative;
     z-index: 18;
-    margin-left: 17.59682%;
+    margin-left: 17.59546%;
   }
 
   .container .text-7 {
@@ -2592,7 +2589,7 @@ body {
     margin-left: 14.07817%;
   }
 
-  .container .text-52 {
+  .container .text-51 {
     position: relative;
     z-index: 22;
     margin-left: 31.41095%;
@@ -3260,6 +3257,11 @@ body {
     margin-left: 0;
   }
 
+  .container .element-48 {
+    clear: none;
+    margin-top: -1px;
+  }
+
   .container .text-31 {
     position: relative;
     z-index: 2;
@@ -3286,6 +3288,11 @@ body {
     margin-left: 24.328%;
   }
 
+  .container .text-52 {
+    margin-top: -90px;
+    margin-left: 29.5957%;
+  }
+
   .container-15 {
     position: relative;
     z-index: 4;
@@ -3298,13 +3305,8 @@ body {
 
   .container-23 {
     position: relative;
-    z-index: 11;
-  }
-
-  .text-51 {
-    position: relative;
     z-index: 12;
-    margin-left: 29.5957%;
+    margin-top: 111px;
   }
 }
 
@@ -3441,7 +3443,7 @@ body {
     margin-left: 14.06458%;
   }
 
-  .container .text-52 {
+  .container .text-51 {
     position: relative;
     z-index: 22;
     margin-top: -626px;
@@ -3747,6 +3749,11 @@ body {
     font-size: 0.75em;
   }
 
+  .container .text-52 {
+    margin-top: -139px;
+    margin-left: 29.59809%;
+  }
+
   .container .text-6 {
     position: relative;
     z-index: 18;
@@ -3804,7 +3811,8 @@ body {
 
   .container-23 {
     position: relative;
-    z-index: 11;
+    z-index: 12;
+    margin-top: 160px;
   }
 
   .container-4 {
@@ -3828,12 +3836,6 @@ body {
 
   .submit_email .text-24 {
     margin-left: 0.34455%;
-  }
-
-  .text-51 {
-    position: relative;
-    z-index: 12;
-    margin-left: 29.59809%;
   }
 
   .container ._button-12 {
@@ -4364,7 +4366,7 @@ body {
     margin-left: 9.8726299999%;
   }
 
-  .container .text-52 {
+  .container .text-51 {
     position: relative;
     z-index: 22;
     margin-top: -637px;
@@ -4510,8 +4512,7 @@ body {
     position: relative;
     z-index: 33;
     height: auto;
-    margin-top: -1592px;
-    margin-left: 29.59766%;
+    margin-left: 16.79688%;
   }
 
   .container .image-4 {
@@ -4523,10 +4524,11 @@ body {
 
   .container .image-5 {
     position: relative;
-    clear: both;
     z-index: 34;
+    width: 290px;
     height: auto;
-    margin-top: -1120px;
+    margin-top: -1087px;
+    margin-left: 15.2%;
   }
 
   .container .image-6 {
@@ -4843,6 +4845,11 @@ body {
     margin-left: 24.32336%;
   }
 
+  .container .text-52 {
+    margin-top: -188px;
+    margin-left: 29.59847%;
+  }
+
   .container-15 {
     position: relative;
     z-index: 4;
@@ -4855,12 +4862,7 @@ body {
 
   .container-23 {
     position: relative;
-    z-index: 11;
-  }
-
-  .text-51 {
-    position: relative;
     z-index: 12;
-    margin-left: 29.59847%;
+    margin-top: 209px;
   }
 }
