@@ -880,7 +880,7 @@ body {
   clear: both;
   width: 100%;
   height: 768px;
-  margin-top: 29px;
+  margin-top: 31px;
   background-image: url('../images/analysis.jpg');
   background-repeat: no-repeat;
   background-size: contain;
@@ -1530,7 +1530,8 @@ body {
 }
 
 .text-52 {
-  margin: 41px 0 0 29.6%;
+  width: 70%;
+  margin: 72px 0 0 29.59896%;
   font-family: Oswald;
   font-size: 2.25em;
   text-transform: uppercase;
@@ -3258,8 +3259,7 @@ body {
   }
 
   .container .element-48 {
-    clear: none;
-    margin-top: -1px;
+    margin-top: 32px;
   }
 
   .container .text-31 {
@@ -3289,8 +3289,8 @@ body {
   }
 
   .container .text-52 {
-    margin-top: -90px;
-    margin-left: 29.5957%;
+    margin-top: 31px;
+    margin-left: 21.99802%;
   }
 
   .container-15 {
@@ -3306,7 +3306,6 @@ body {
   .container-23 {
     position: relative;
     z-index: 12;
-    margin-top: 111px;
   }
 }
 
@@ -3553,6 +3552,10 @@ body {
     margin-top: -342px;
   }
 
+  .container .element-48 {
+    margin-top: 35px;
+  }
+
   .container .element-5 {
     position: relative;
     z-index: 13;
@@ -3750,8 +3753,9 @@ body {
   }
 
   .container .text-52 {
-    margin-top: -139px;
-    margin-left: 29.59809%;
+    width: 86.1230329041%;
+    margin-top: 42px;
+    margin-left: 11.58575%;
   }
 
   .container .text-6 {
@@ -3812,7 +3816,6 @@ body {
   .container-23 {
     position: relative;
     z-index: 12;
-    margin-top: 160px;
   }
 
   .container-4 {
@@ -4821,6 +4824,10 @@ body {
     margin-top: -530px;
   }
 
+  .container .element-48 {
+    margin-top: 22px;
+  }
+
   .container .text-31 {
     position: relative;
     z-index: 2;
@@ -4846,8 +4853,8 @@ body {
   }
 
   .container .text-52 {
-    margin-top: -188px;
-    margin-left: 29.59847%;
+    margin-top: 14px;
+    margin-left: 8.23095%;
   }
 
   .container-15 {
@@ -4863,6 +4870,5 @@ body {
   .container-23 {
     position: relative;
     z-index: 12;
-    margin-top: 209px;
   }
 }
