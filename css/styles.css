@@ -4,8 +4,8 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.page-equipment_monitoring,
-.page-ride_comfort,
+.page-equipment-monitoring,
+.page-ride-comfort,
 .page-train {
   color: rgb(255, 255, 255);
 }
@@ -14,7 +14,7 @@ body {
   color: rgb(0, 0, 0);
 }
 
-.page-overhead_line {
+.page-overhead-line {
   font-family: Oswald;
   color: rgb(0, 0, 0);
 }
@@ -1464,7 +1464,7 @@ body {
   z-index: 16;
   width: 35.25%;
   min-height: 100px;
-  margin: -1158px 0 0 29.6%;
+  margin: -1158px 0 0 29.59896%;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -2249,7 +2249,7 @@ body {
   .container .text-6 {
     position: relative;
     z-index: 18;
-    margin-left: 17.60226%;
+    margin-left: 17.59954%;
   }
 
   .container .text-7 {
@@ -2602,7 +2602,7 @@ body {
     width: 46.5204957102%;
     height: 358px;
     margin-top: -358px;
-    margin-left: 31.4795%;
+    margin-left: 31.47939%;
   }
 
   .container .element-29 {
@@ -2667,7 +2667,7 @@ body {
     position: relative;
     z-index: 12;
     margin-top: -778px;
-    margin-left: 13.86439%;
+    margin-left: 13.86291%;
   }
 
   .container .text-48 {
@@ -3155,7 +3155,7 @@ body {
   .container .text-32 {
     position: relative;
     z-index: 1;
-    margin-left: 35.5895%;
+    margin-left: 35.57906%;
   }
 
   .container .text-40 {
@@ -3416,7 +3416,7 @@ body {
     position: relative;
     z-index: 22;
     margin-top: -626px;
-    margin-left: 15.2%;
+    margin-left: 15.19849%;
   }
 
   .container-11 {
@@ -3997,7 +3997,7 @@ body {
     position: relative;
     z-index: 9;
     margin-top: -865px;
-    margin-left: 37.2%;
+    margin-left: 37.19491%;
   }
 
   .container .text-38 {
@@ -4270,7 +4270,7 @@ body {
     width: 160px;
     height: auto;
     margin-top: -270px;
-    margin-left: 0.70295%;
+    margin-left: 0.69947%;
   }
 
   .container .text-17 {
@@ -4318,28 +4318,28 @@ body {
     z-index: 16;
     width: 89.977728285%;
     margin-top: -2235px;
-    margin-left: 9.87959%;
+    margin-left: 9.87611%;
   }
 
   .container .text-43 {
     position: relative;
     z-index: 18;
     margin-top: -1683px;
-    margin-left: 9.87959%;
+    margin-left: 9.87611%;
   }
 
   .container .text-47 {
     position: relative;
     z-index: 19;
     margin-top: -1259px;
-    margin-left: 9.87959%;
+    margin-left: 9.87611%;
   }
 
   .container .text-52 {
     position: relative;
     z-index: 22;
     margin-top: -637px;
-    margin-left: 9.9979099999%;
+    margin-left: 9.99443%;
   }
 
   .container-11 {
