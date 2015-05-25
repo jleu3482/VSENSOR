@@ -1992,6 +1992,34 @@ body {
   margin: -29px 0 0 0.38745%;
 }
 
+.text em,
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
 @media(max-width: 1149px) {
   .container .submit_email {
     position: relative;
@@ -2124,8 +2152,8 @@ body {
     z-index: 33;
     width: 531px;
     height: auto;
-    margin-top: -1631px;
-    margin-left: 38.55527%;
+    margin-top: -1553px;
+    margin-left: 38.58382%;
   }
 
   .container .image-4 {
@@ -2140,8 +2168,8 @@ body {
     z-index: 34;
     width: 547px;
     height: auto;
-    margin-top: -934px;
-    margin-left: 37.16275%;
+    margin-top: -989px;
+    margin-left: 37.19947%;
   }
 
   .container .image-6 {
@@ -2249,7 +2277,7 @@ body {
   .container .text-6 {
     position: relative;
     z-index: 18;
-    margin-left: 17.59954%;
+    margin-left: 17.59682%;
   }
 
   .container .text-7 {
@@ -3155,7 +3183,7 @@ body {
   .container .text-32 {
     position: relative;
     z-index: 1;
-    margin-left: 35.57906%;
+    margin-left: 35.57558%;
   }
 
   .container .text-40 {
@@ -3997,7 +4025,7 @@ body {
     position: relative;
     z-index: 9;
     margin-top: -865px;
-    margin-left: 37.19491%;
+    margin-left: 37.18921%;
   }
 
   .container .text-38 {
@@ -4270,7 +4298,7 @@ body {
     width: 160px;
     height: auto;
     margin-top: -270px;
-    margin-left: 0.69947%;
+    margin-left: 0.69599%;
   }
 
   .container .text-17 {
@@ -4318,28 +4346,28 @@ body {
     z-index: 16;
     width: 89.977728285%;
     margin-top: -2235px;
-    margin-left: 9.87611%;
+    margin-left: 9.8726299999%;
   }
 
   .container .text-43 {
     position: relative;
     z-index: 18;
     margin-top: -1683px;
-    margin-left: 9.87611%;
+    margin-left: 9.8726299999%;
   }
 
   .container .text-47 {
     position: relative;
     z-index: 19;
     margin-top: -1259px;
-    margin-left: 9.87611%;
+    margin-left: 9.8726299999%;
   }
 
   .container .text-52 {
     position: relative;
     z-index: 22;
     margin-top: -637px;
-    margin-left: 9.99443%;
+    margin-left: 9.99095%;
   }
 
   .container-11 {
