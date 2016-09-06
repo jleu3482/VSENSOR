@@ -1,0 +1,274 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Oswald;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.element {
+  position: relative;
+  float: left;
+  background-color: rgb(222, 222, 222);
+}
+
+.image {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 486px;
+  height: auto;
+  margin: -531px 0 0 7.83073%;
+  overflow: hidden;
+}
+
+.text {
+  position: relative;
+  float: left;
+}
+
+._button {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 85.6666666666%;
+  z-index: 12;
+  width: 14.3333333333%;
+  height: 57px;
+  border-radius: 3px;
+  background-color: rgb(154, 1, 1);
+  font-family: 'Open Sans';
+  font-size: 1em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:hover {
+  background-color: rgb(96, 10, 10);
+}
+
+.container-1 {
+  z-index: 2;
+  height: 550px;
+  margin-top: -22px;
+}
+
+.container-2 {
+  clear: both;
+  z-index: 11;
+  height: 835px;
+}
+
+.element-1 {
+  z-index: 0;
+  width: 100%;
+  height: 550px;
+  background-image: url('../images/app%20train%20track.JPG');
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-2 {
+  z-index: 3;
+  width: 100%;
+  height: 835px;
+  background-image: -webkit-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:    -moz-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:      -o-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:     -ms-linear-gradient(322deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background-image:         linear-gradient(128deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+}
+
+.element-3 {
+  z-index: 10;
+  width: 38.25%;
+  height: 172px;
+  margin: -531px 0 0 51.75%;
+  border: 3px solid rgb(0, 0, 0);
+  background-image: url('../images/track2.png'), -webkit-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),    -moz-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),      -o-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),     -ms-linear-gradient(322deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-image: url('../images/track2.png'),         linear-gradient(128deg, rgb(137, 137, 137) 0%, rgb(55, 55, 55) 100%);
+  background-repeat: no-repeat, repeat;
+  background-size: cover, 100% 100%;
+  background-position: center center, 0% 0%;
+  background-attachment: scroll, scroll;
+}
+
+.element-4 {
+  z-index: 9;
+  width: 37.4166666666%;
+  height: 202px;
+  margin: -253px 0 0 52.58203%;
+  border: 3px solid rgb(0, 0, 0);
+  background-image: url('../images/multisensortrack1.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.text-1 {
+  clear: both;
+  z-index: 1;
+  width: 40.0833333333%;
+  margin: -476px 0 0 35.59896%;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  clear: both;
+  z-index: 4;
+  width: 54.75%;
+  margin: -792px 0 0 25.41667%;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  z-index: 6;
+  margin: -599px 0 0 10.5%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  z-index: 7;
+  width: 24.75%;
+  min-height: 59px;
+  margin: -599px 0 0 60.04948%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  z-index: 8;
+  min-height: 100px;
+  margin: -305px 0 0 63.59896%;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.text em,
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 898px) {
+  .container {
+    position: relative;
+  }
+
+  .container .element {
+    position: relative;
+  }
+
+  .container .image {
+    position: relative;
+    z-index: 5;
+    width: 343px;
+    height: auto;
+    margin-top: -509px;
+    margin-left: 0;
+  }
+
+  .container .text {
+    position: relative;
+  }
+
+  .container .element-1 {
+    z-index: 0;
+  }
+
+  .container .element-2 {
+    z-index: 3;
+  }
+
+  .container .element-3 {
+    z-index: 10;
+    width: 49.1091314031%;
+    height: 166px;
+    margin-top: -509px;
+    margin-left: 40.88948%;
+  }
+
+  .container .element-4 {
+    z-index: 9;
+    margin-top: -270px;
+    margin-left: 50%;
+  }
+
+  .container .text-1 {
+    z-index: 1;
+    margin-left: 35.57558%;
+  }
+
+  .container .text-2 {
+    z-index: 4;
+    width: 81.8485523385%;
+    margin-top: -816px;
+    margin-left: 12.88976%;
+    font-size: 1.875em;
+  }
+
+  .container .text-3 {
+    z-index: 6;
+    width: 39.6436525612%;
+    margin-top: -625px;
+    margin-left: 2.73351%;
+  }
+
+  .container .text-4 {
+    z-index: 7;
+    margin-top: -625px;
+    margin-left: 55.99248%;
+  }
+
+  .container .text-5 {
+    z-index: 8;
+    width: 43.986636971%;
+    margin-top: -47px;
+    margin-left: 55.99248%;
+    font-size: 0.875em;
+  }
+
+  .container-1 {
+    z-index: 2;
+  }
+
+  .container-2 {
+    z-index: 11;
+  }
+}

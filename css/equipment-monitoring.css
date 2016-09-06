@@ -1,0 +1,439 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.element {
+  float: left;
+}
+
+.text {
+  float: left;
+}
+
+.text-4 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 85.6666666666%;
+  z-index: 13;
+  width: 14.3333333333%;
+  height: 57px;
+  border-radius: 3px;
+  background-color: rgb(154, 1, 1);
+  font-size: 1em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:hover {
+  background-color: rgb(96, 10, 10);
+}
+
+.container-1 {
+  z-index: 4;
+  height: 550px;
+  margin-top: -176px;
+}
+
+.container-2 {
+  clear: both;
+  z-index: 9;
+  height: 550px;
+}
+
+.container-3 {
+  clear: both;
+  z-index: 12;
+  height: 1041px;
+}
+
+.element-1 {
+  position: relative;
+  z-index: 0;
+  width: 50%;
+  height: 550px;
+  background: url('../images/equipment2.jpg'), url('../images/equipment1.jpg') rgb(222, 222, 222);
+  background-repeat: repeat, repeat;
+  background-size: cover, cover;
+  background-position: center center, center top;
+  background-attachment: scroll, scroll;
+}
+
+.element-2 {
+  position: relative;
+  z-index: 1;
+  width: 50%;
+  height: 550px;
+  margin: -550px 0 0 50%;
+  background: url('../images/app%20mirror.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-3 {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 550px;
+  background: rgb(255, 255, 255);
+  background: -webkit-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%) rgb(222, 222, 222);
+  background:    -moz-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%) rgb(222, 222, 222);
+  background:      -o-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%) rgb(222, 222, 222);
+  background:     -ms-linear-gradient(321deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%) rgb(222, 222, 222);
+  background:         linear-gradient(129deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%) rgb(222, 222, 222);
+}
+
+.element-4 {
+  position: relative;
+  z-index: 8;
+  width: 16.4666666666%;
+  height: 139px;
+  margin: -346px 0 0 6.33073%;
+  border-radius: 8px;
+  background: url('../images/switch%20cut%20out.png') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.element-5 {
+  clear: both;
+  width: 100%;
+  height: 768px;
+  margin-top: 31px;
+  background: url('../images/analysis.jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center top;
+}
+
+.text-1 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  margin: -95px 0 0 10%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  position: relative;
+  z-index: 3;
+  width: 40.0833333333%;
+  margin: -95px 0 0 54.63151%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 6;
+  width: 40.0833333333%;
+  margin: -538px 0 0 39.83203%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 7;
+  width: 61%;
+  min-height: 100px;
+  margin: -379px 0 0 24.33073%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.text-5 {
+  width: 70%;
+  margin: 72px 0 0 29.59896%;
+  font-family: Oswald;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  color: rgb(14, 102, 170);
+}
+
+.text em,
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 851px) {
+  .container {
+    position: relative;
+  }
+
+  .container .element-1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  .container .element-2 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .container .element-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .container .element-4 {
+    position: relative;
+    z-index: 8;
+    width: 23.6192714453%;
+    height: 152px;
+    margin-top: -336px;
+    margin-left: 0;
+  }
+
+  .container .element-5 {
+    margin-top: 32px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 2;
+    margin-top: -285px;
+    margin-left: 0;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 3;
+    margin-top: -147px;
+    margin-left: 54.51124%;
+  }
+
+  .container .text-3 {
+    position: relative;
+    z-index: 6;
+    margin-left: 39.83182%;
+  }
+
+  .container .text-4 {
+    position: relative;
+    z-index: 7;
+    margin-left: 24.328%;
+  }
+
+  .container .text-5 {
+    margin-top: 31px;
+    margin-left: 21.99802%;
+  }
+
+  .container-1 {
+    z-index: 4;
+  }
+
+  .container-2 {
+    z-index: 9;
+  }
+
+  .container-3 {
+    z-index: 12;
+  }
+}
+
+@media(max-width: 699px) {
+  body {
+    font-size: 0.75em;
+  }
+
+  .container {
+    position: relative;
+  }
+
+  ._button {
+    font-size: 1.333em;
+  }
+
+  .container .element-1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  .container .element-2 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .container .element-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .container .element-4 {
+    position: relative;
+    z-index: 8;
+    margin-top: -342px;
+  }
+
+  .container .element-5 {
+    margin-top: 35px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 2;
+    width: 28.7553648068%;
+    margin-top: -314px;
+    font-size: 3em;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 3;
+    margin-left: 54.51091%;
+    font-size: 3em;
+  }
+
+  .container .text-3 {
+    position: relative;
+    z-index: 6;
+    margin-left: 39.83146%;
+    font-size: 3em;
+  }
+
+  .container .text-4 {
+    position: relative;
+    z-index: 7;
+    margin-left: 24.3249299999%;
+    font-size: 12px;
+  }
+
+  .container .text-5 {
+    width: 86.1230329041%;
+    margin-top: 42px;
+    margin-left: 11.58575%;
+    font-size: 3em;
+  }
+
+  .container-1 {
+    z-index: 4;
+  }
+
+  .container-2 {
+    z-index: 9;
+  }
+
+  .container-3 {
+    z-index: 12;
+  }
+}
+
+@media(max-width: 351px) {
+  .container {
+    position: relative;
+  }
+
+  .container .element-1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  .container .element-2 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .container .element-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .container .element-4 {
+    position: relative;
+    z-index: 8;
+    width: 44.1595441595%;
+    margin-top: -530px;
+  }
+
+  .container .element-5 {
+    margin-top: 22px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 2;
+    margin-top: -285px;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 3;
+    margin-left: 54.50944%;
+  }
+
+  .container .text-3 {
+    position: relative;
+    z-index: 6;
+    margin-left: 50.79683%;
+  }
+
+  .container .text-4 {
+    position: relative;
+    z-index: 7;
+    margin-left: 24.32336%;
+  }
+
+  .container .text-5 {
+    margin-top: 14px;
+    margin-left: 8.23095%;
+  }
+
+  .container-1 {
+    z-index: 4;
+  }
+
+  .container-2 {
+    z-index: 9;
+  }
+
+  .container-3 {
+    z-index: 12;
+  }
+}
